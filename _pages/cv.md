@@ -37,12 +37,12 @@ Research Experience (Individual)
   * Supervisor: Dipl.-Ing.Thomas Lepper 
 
 
-Research Experience (Grooup)
+Research Experience (Group)
 ======
 * 10.2017-present: Vision-based Navigation in Flexible Endoscopy (Group Project)
   * Imperial College London
   * Duties included: This project is to develop a method of simultaneously mapping the human colon and tracking the endoscope pose in real time during flexible endoscopy based on visual-inertial SLAM.
-  
+
 Skills
 ======
 * Programming: 
@@ -64,7 +64,7 @@ Skills
   * Hand-sketching
   * Welding
   * Drilling
-  * 3D printing (Ulterimaker) g]
+  * 3D printing (Ulterimaker) 
   * Laser cuting, 
   * CNC manipulation
   * SolidCAM and Manufacturing
