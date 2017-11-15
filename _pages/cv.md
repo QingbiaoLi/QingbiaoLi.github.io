@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Imperial College London, 10.2017-present
+* 10.2017-present, Imperial College London, 
   * MRes Medical Robotics and Image Guided Intervention
-* The University of Edinburgh,  09.2013-06.2016
+* 09.2013-06.2016, The University of Edinburgh
   * M. Eng (Hons) Mechanical Engineering (2:1)
-* South China University of Technology, 09.2011-07.2013
+* 09.2011-07.2013. South China University of Technology
   * B. Eng. Mechanical Engineering and Automation (3.14/4.00)
 
 
