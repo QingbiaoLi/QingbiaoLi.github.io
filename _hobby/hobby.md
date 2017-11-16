@@ -3,7 +3,7 @@ layout: archive
 title: "Know more about me"
 collection: hobby
 author_profile: true
-permalink: /hobby/
+permalink: /hobby/ 
 ---
 
 
