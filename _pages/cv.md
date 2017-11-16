@@ -66,3 +66,10 @@ Service and leadership
 * 09.2012-06.2013, Senior Technical Officer
   * Department of Technology, R&D Centre, BBT Student Innovation Centre
   * I was in a team of IT fans called to develop website (http://www.100steps.net/), Android & IOS application for Shuttle bus location, second hand online market and etc
+
+Language Proficiency
+======
+* English (Fluent) 
+* German(Basic) 
+* Chinese:
+  * Mandarin (Native), Cantonese (Intermediate) and Hakka Dialect(Native)

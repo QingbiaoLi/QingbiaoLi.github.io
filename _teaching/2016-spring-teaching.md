@@ -10,6 +10,6 @@ location: "Edinburgh, the United Kingdom"
 
 Duties included:
 * Prepared the solutions to tutorial questions weekly about:
- * Fluid Statics, Bernoulli’s Equation, Hydraulic Structures
+  * Fluid Statics, Bernoulli’s Equation, Hydraulic Structures
 * Solicited feedback from students to improve the teaching quality.
 
