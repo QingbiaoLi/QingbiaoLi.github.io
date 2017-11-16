@@ -26,8 +26,8 @@ Education
 
 * Self - learning through MOOC:
   * Artificial Intelligence Planning, Machine Learning, Machine Learning Techniques, Introduction to Robotics, An introduction to Interactive Programming in Python.
-  * Certificates: [Download paper here](http://academicpages.github.io/files/MOOC_Certificates.pdf)
-  
+  * [MOOC Certificates](http://qingbiaoli.github.io/files/MOOC_Certificates.pdf)
+
 Competition and Awards
 ======
 * 10.2015 - 01.2016: Hyperloop Team Member, Levitation Group
