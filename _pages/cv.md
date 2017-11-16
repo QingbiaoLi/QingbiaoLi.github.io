@@ -13,12 +13,21 @@ Education
 ======
 * 10.2017-present, Imperial College London, 
   * MRes Medical Robotics and Image Guided Intervention
+  * Course: 
+    * Medical Robotics and Instrumentation, Minimally Invasive Surgery, Medical Imaging, Image Guided Intervention, Body, sensor and networks
 * 09.2013-06.2016, The University of Edinburgh
   * M. Eng (Hons) Mechanical Engineering (2:1)
+  * Course: Mechanical Engineering Design (71), Computer Aided Engineering (79), Solid Mechanics (92), Dynamics (77), Fluid Mechanics (77), Advanced Dynamics and Applications (68)
+
+
 * 09.2011-07.2013. South China University of Technology
-  * B. Eng. Mechanical Engineering and Automation (3.14/4.00)
+  * B. Eng. Mechanical Engineering and Automation 
+  * Course: Advanced Mathematics (81), General Chemisty (88), Descriptive Geometry and Machine Drawing (91), Database Technology (82), Computer Drawing (91)
 
-
+* Self - learning through MOOC:
+  * Artificial Intelligence Planning, Machine Learning, Machine Learning Techniques, Introduction to Robotics, An introduction to Interactive Programming in Python.
+  * Certificates: [Download paper here](http://academicpages.github.io/files/MOOC_Certificates.pdf)
+  
 Competition and Awards
 ======
 * 10.2015 - 01.2016: Hyperloop Team Member, Levitation Group

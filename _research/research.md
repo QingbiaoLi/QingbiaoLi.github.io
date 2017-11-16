@@ -23,6 +23,16 @@ Individual
     * Simulation 
   * Supervisor: Dr. Zhibin Li
 
+* 09.2015 - 04.2016: Missile impact on snow (Final year project)
+  * The University of Edinburgh
+  * Project description:
+    * To understand the impact dynamics of the impactor and its interaction with different types of snow, covering a range of impact energies, the structure and properties of snow relate to the behaviour of the impactor.
+  * Duties included: 
+    * Mechanical design of impactor
+    * Practical experiment in cold room
+    * Singal processing of accelerometer
+  * Supervisor: Dr Filipe Teixeira-Dias 
+
 * 03.2015 - 08.2015: Industrial Robotics Researcher Assistant (Funded by Erasmus+)
   * The Institute of Production Engineering and Machine Tools (IFW), Leibniz University of Hanover
   * Duties included: 
