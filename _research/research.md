@@ -3,12 +3,8 @@ layout: archive
 title: "CV"
 permalink: /Research/
 author_profile: true
-redirect_from:
-  - /_research
+collection: portfolio
 ---
-
-{% include base_path %}
-
 
 Research Experience (Individual)
 ======
