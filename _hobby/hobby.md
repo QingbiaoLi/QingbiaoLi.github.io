@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Know more about me"
+title: "Hobby"
 collection: hobby
 author_profile: true
 permalink: /hobby/ 
 ---
-
-
 
 
 I like:
