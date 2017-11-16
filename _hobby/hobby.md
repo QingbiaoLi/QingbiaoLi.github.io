@@ -1,10 +1,13 @@
 ---
 layout: archive
 title: "Know more about me"
-permalink: /hobby/
-author_profile: true
 collection: hobby
+author_profile: true
+permalink: /hobby/
 ---
+
+
+
 
 I like:
 * Swimming

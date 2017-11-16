@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
- Despite knowing the journey and where it leads, I embrace it, and I welcome every moment of it.
-  * Dr. Louise Banks, Arrival (2016)
+
+
+
+ Despite knowing the journey and where it leads, I embrace it, and I welcome every moment of it. 
+ 											-- Dr. Louise Banks, Arrival (2016)
 
 
 
