@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutoring for Undergraduate course"
 permalink: /teaching/2015-autumn-teaching
 venue: "School of Engineering, The University of Edinburgh"
-date: 2015-09 
+date: 2015-09-15
 location: "Edinburgh, the United Kingdom"
 ---
 
