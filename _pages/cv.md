@@ -19,7 +19,7 @@ Education
   * Course: Mechanical Engineering Design (71), Computer Aided Engineering (79), Solid Mechanics (92), Dynamics (77), Fluid Mechanics (77), Advanced Dynamics and Applications (68)
 
 
-* 09.2011-07.2013. South China University of Technology
+* 09.2011-07.2013,  South China University of Technology
   * B. Eng. Mechanical Engineering and Automation 
   * Course: Advanced Mathematics (81), General Chemisty (88), Descriptive Geometry and Machine Drawing (91), Database Technology (82), Computer Drawing (91)
 
@@ -29,7 +29,7 @@ Education
 
 Competition and Awards
 ======
-* 10.2015 - 01.2016: Hyperloop Team Member, Levitation Group
+* 10.2015 - 01.2016,  Hyperloop Team Member, Levitation Group
   * Awarded by Space Exploration Technologies Corporation for Subsystem Excellence Award [Links](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-35384238)
   * Description:
     * Conceptual high-speed transportation system competition organized by SpaceX. Hyperloop is incorporating reduced-pressure tubes in which pressurized capsules ride on an air cushion driven by linear induction motors and air compressors. 
@@ -38,12 +38,12 @@ Competition and Awards
     * Design the suspension by Solid Edge and air bearing system 
     * Validate the reliability of the design via simulation in MATLAB and Star-CCM+
   
-* 09.2013-09.2015: International Student Scholarship
+* 09.2013-09.2015, International Student Scholarship
   * Awarded by The University of Edinburgh for £ 2000/year,
-* 12.2012: First Prize of “ThyssenKrupp” Elevator Cab Design Competition
+* 12.2012,  First Prize of “ThyssenKrupp” Elevator Cab Design Competition
   * Awarded by School of Automation Science and Engineering, SCUT,China
   * Section 1 in Portfolio
-* 12.2012: Excellent Student Union Executive
+* 12.2012, Excellent Student Union Executive
   * Awarded by Student Union, School of Mechanical & Automotive Engineering, SCUT,China
 
 

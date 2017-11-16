@@ -8,14 +8,14 @@ collection: portfolio
 
 Individual
 ======
-* Summer 2017: Academic research internship in legged robot
+* Summer 2017,  Academic research internship in legged robot
   * Intelligence Robot Lab, Zhejiang Univeristy 
   * Duties included:
     * Robust control of bipedal walking for legged robot 
     * Carried out physical experiment 
   * Supervisor: Dr. Qiuguo Zhu
 
-* 09.2016 - 06.2017: Academic research internship in humanoid robot
+* 09.2016 - 06.2017, Academic research internship in humanoid robot
   * The University of Edinburgh
   * Duties included: 
     * Research model-free control of bipedal walking for humanoid robotics 
@@ -23,7 +23,7 @@ Individual
     * Simulation 
   * Supervisor: Dr. Zhibin Li
 
-* 09.2015 - 04.2016: Missile impact on snow (Final year project)
+* 09.2015 - 04.2016, Missile impact on snow (Final year project)
   * The University of Edinburgh
   * Project description:
     * To understand the impact dynamics of the impactor and its interaction with different types of snow, covering a range of impact energies, the structure and properties of snow relate to the behaviour of the impactor.
@@ -33,7 +33,7 @@ Individual
     * Singal processing of accelerometer
   * Supervisor: Dr Filipe Teixeira-Dias 
 
-* 03.2015 - 08.2015: Industrial Robotics Researcher Assistant (Funded by Erasmus+)
+* 03.2015 - 08.2015, Industrial Robotics Researcher Assistant (Funded by Erasmus+)
   * The Institute of Production Engineering and Machine Tools (IFW), Leibniz University of Hanover
   * Duties included: 
     * Mechanism design for industrial robot for industrial-level milling process
@@ -44,7 +44,7 @@ Individual
 
 Group
 ======
-* 10.2017-present: Vision-based Navigation in Flexible Endoscopy
+* 10.2017-present, Vision-based Navigation in Flexible Endoscopy
   * Imperial College London
   * Supervisor: Dr. George Mylonas
   * Project description:
@@ -56,7 +56,7 @@ Group
   * Project outcome: 
     * Undertaking 
 
-* 09-11.2014: CCS design project
+* 09-11.2014, CCS design project
   * The University of Edinburgh
   * Supervisor: Dr Mathieu Lucquiaud 
   * Project description:
@@ -67,7 +67,7 @@ Group
   * Project outcome:
     * Amine capture plant with absorber intercooling is finally developed to reach 90.2% CO2 capture and 50.91% net plant efficiency as modelling in UniSim®.
 
-* 01-04.2014: Design of a Floating Production System for a Marginal North Sea Oil Field
+* 01-04.2014, Design of a Floating Production System for a Marginal North Sea Oil Field
   * The University of Edinburgh
   * Supervisor: Prof Alistair Borthwick 
   * Project description:
@@ -78,7 +78,7 @@ Group
   * Project outcome:
     * The SeaStar TLP is developed in Solid Edge for its combination of excellent wave response, and low costs based on simulation in MATLAB in group report.
 
-* 09-11.2013: Design of New Style Solar Oven 
+* 09-11.2013, Design of New Style Solar Oven 
   * The University of Edinburgh
   * Supervisor: Dr John Chick 
   * Project description:
