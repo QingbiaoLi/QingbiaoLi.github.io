@@ -31,8 +31,13 @@ Education
 Competition and Awards
 ======
 * 10.2015 - 01.2016: Hyperloop Team Member, Levitation Group
- * Awarded by Space Exploration Technologies Corporation for Subsystem Excellence Award
- * It is a conceptual high-speed transportation system competition organized by SpaceX. Hyperloop is incorporating reduced-pressure tubes in which pressurized capsules ride on an air cushion driven by linear induction motors and air compressors. I am in the levitation group to design the suspension by Solid Edge and air bearing system simulated by MATLAB and Star-CCM+ for our Hyperloop design. (http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-35384238)
+ * Awarded by Space Exploration Technologies Corporation for Subsystem Excellence Award [Links](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-35384238)
+ * Description:
+ * Conceptual high-speed transportation system competition organized by SpaceX. Hyperloop is incorporating reduced-pressure tubes in which pressurized capsules ride on an air cushion driven by linear induction motors and air compressors. 
+ * Duties included: 
+  * In charge of the levitation group 
+  * Design the suspension by Solid Edge and air bearing system 
+  * Validate the reliability of the design via simulation in MATLAB and Star-CCM+
   
 * 09.2013-09.2015: International Student Scholarship
   * Awarded by The University of Edinburgh for £ 2000/year,
