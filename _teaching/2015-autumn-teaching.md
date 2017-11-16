@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant (Mechanical Engineering 1)"
 collection: teaching
 type: "Tutoring for Undergraduate course"
 permalink: /teaching/2015-autumn-teaching
@@ -8,7 +8,7 @@ date: 2015-09-15
 location: "Edinburgh, the United Kingdom"
 ---
 
-Mechanical Engineering 1 (basic statics, dynamics, sold mechanics and thermodynamics)
-
-* Prepared the solutions to tutorial questions weekly and worked on one to one basis.
+Duties included:
+* Prepared the solutions to tutorial questions weekly about:
+ * basic statics, dynamics, sold mechanics and thermodynamics
 * Solicited feedback from students to improve the teaching quality.
