@@ -12,3 +12,22 @@ citation: 'Qingbiao Li, Iordanis Chatzinikolaidis, Yiming Yang, Sethu Vijayakuma
 [Download paper here](http://qingbiaoli.github.io/files/humanoid2017.pdf)
 
 Recommended citation: "Qingbiao Li, Iordanis Chatzinikolaidis, Yiming Yang, Sethu Vijayakumar, and Zhibin Li. Robust Foot Placement Control for Dynamic Walking Using Online Parameter Estimation. IEEE Humanoids, 2017."
+
+Video Demo
+======
+---
+Description: "Video demo for IEEE RAS International Conference on Humanoid Robots — November 15-17, 2017, Birmingham (UK)"
+iframe_url: https://www.youtube.com/embed/uCcWqhFQyiw?list=PLV-fssgqlwPSwQPcX1yuhZEjpwVyBJcAh
+---
+
+{% if page.iframe_url %}
+    <div class="less-fancy-video-header">
+  		<iframe 
+	  		width="560" height="315" 
+	  		src="https://www.youtube.com/embed/uCcWqhFQyiw?list=PLV-fssgqlwPSwQPcX1yuhZEjpwVyBJcAh" frameborder="0" 
+	  		gesture="media" 
+	  		allowfullscreen>	
+  		</iframe>
+    </div>
+{% endif %}
+

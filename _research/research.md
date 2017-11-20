@@ -9,7 +9,7 @@ collection: portfolio
 Individual
 ======
 * Summer 2017,  Academic research internship in legged robot
-  * Intelligence Robot Lab, Zhejiang Univeristy 
+  * Intelligence Robot Lab, Zhejiang University 
   * Duties included:
     * Robust control of bipedal walking for legged robot 
     * Carried out physical experiment 
@@ -19,7 +19,7 @@ Individual
   * The University of Edinburgh
   * Duties included: 
     * Research model-free control of bipedal walking for humanoid robotics 
-    * Theorectical proof and simulation validation of online parameter estimation to obtain robust control of bipedal walking
+    * Theoretical proof and simulation validation of online parameter estimation to obtain robust control of bipedal walking
     * Simulation 
   * Supervisor: Dr. Zhibin Li
 
@@ -30,14 +30,14 @@ Individual
   * Duties included: 
     * Mechanical design of impactor
     * Practical experiment in cold room
-    * Singal processing of accelerometer
+    * Signal processing of accelerometer
   * Supervisor: Dr Filipe Teixeira-Dias 
 
 * 03.2015 - 08.2015, Industrial Robotics Researcher Assistant (Funded by Erasmus+)
   * The Institute of Production Engineering and Machine Tools (IFW), Leibniz University of Hanover
   * Duties included: 
     * Mechanism design for industrial robot for industrial-level milling process
-    * CAD modelling of potential sulution of ransmission device
+    * CAD modelling of potential solution of transmission device
     * Kinematic simulation
   * Supervisor: Dipl.-Ing.Thomas Lepper 
 
@@ -50,8 +50,8 @@ Group
   * Project description:
     * Simultaneously mapping the human colon and tracking the endoscope pose in real time during flexible endoscopy
   * Duties included: 
-    * Research on vailable visual-inertial SLAM and modify this SLAM algorithm for small scale, near focus
-    * Registeration and surface reconsturction based on poind cloud
+    * Research on available visual-inertial SLAM and modify this SLAM algorithm for small scale, near focus
+    * Registration and surface reconstruction based on point cloud
     * Computer Vision, visual-inertial SLAM  
   * Project outcome: 
     * Undertaking 
@@ -85,7 +85,7 @@ Group
     * A thermal storage solar cooker is developed to reach theoretical steady-state temperature range of 105-170°C for the 2013 Engineers Without Borders challenge. 
   * Duties included: 
     * Design and build CAD model the mechanism of whole model in SolidEdge
-    * Create anmination of final project 
+    * Create animation of final project 
   * Project outcome:
     * As a solution to the problem of renewable clean cooking technologies for the town of Codo in the Lautém district of Timor-Leste.
 

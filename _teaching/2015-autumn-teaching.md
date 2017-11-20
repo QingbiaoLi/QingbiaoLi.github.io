@@ -10,5 +10,5 @@ location: "Edinburgh, the United Kingdom"
 
 Duties included:
 * Prepared the solutions to tutorial questions weekly about:
-  * Basic statics, dynamics, sold mechanics and thermodynamics
+  * Basic statics, dynamics, solid mechanics and thermodynamics
 * Solicited feedback from students to improve the teaching quality.

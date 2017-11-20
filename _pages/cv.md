@@ -21,7 +21,7 @@ Education
 
 * 09.2011-07.2013,  South China University of Technology
   * B. Eng. Mechanical Engineering and Automation 
-  * Course: Advanced Mathematics (81), General Chemisty (88), Descriptive Geometry and Machine Drawing (91), Database Technology (82), Computer Drawing (91)
+  * Course: Advanced Mathematics (81), General Chemistry (88), Descriptive Geometry and Machine Drawing (91), Database Technology (82), Computer Drawing (91)
 
 * Self - learning through MOOC:
   * Artificial Intelligence Planning, Machine Learning, Machine Learning Techniques, Introduction to Robotics, An introduction to Interactive Programming in Python.
@@ -58,7 +58,7 @@ Skills
 * FEA and CFD software:
   * ABAQUES, ANSYS, Star-CCM+
 * Laboratory skills:
-  * Hand-sketching, Welding, Drilling, 3D printing (Ulterimaker), Laser cuting, CNC manipulation, SolidCAM and Manufacturing
+  * Hand-sketching, Welding, Drilling, 3D printing (Ulterimaker), Laser cutting, CNC manipulation, SolidCAM and Manufacturing
 
 
 Publications
@@ -83,6 +83,6 @@ Service and leadership
 Language Proficiency
 ======
 * English (Fluent) 
-* German(Basic) 
+* German (Basic) 
 * Chinese:
-  * Mandarin (Native), Cantonese (Intermediate) and Hakka Dialect(Native)
+  * Mandarin (Native), Cantonese (Intermediate) and Hakka Dialect (Native)
