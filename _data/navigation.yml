@@ -1,11 +1,11 @@
 # main links links
 main:
+  - title: "Research Experience"
+    url: /research/  
+     
   - title: "CV"
     url: /cv/
 
-  - title: "Research Experience"
-    url: /research/   
-      
   - title: "Publications"
     url: /publications/
 
