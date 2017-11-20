@@ -20,11 +20,6 @@ Description: "Video demo for IEEE RAS International Conference on Humanoid Robot
 iframe_url: https://www.youtube.com/embed/uCcWqhFQyiw?list=PLV-fssgqlwPSwQPcX1yuhZEjpwVyBJcAh
 ---
 
-
-<iframe 
-	width="560" height="315" 
-	src="https://www.youtube.com/embed/uCcWqhFQyiw?list=PLV-fssgqlwPSwQPcX1yuhZEjpwVyBJcAh" frameborder="0" 
-	gesture="media" 
-	allowfullscreen>	
-</iframe>
-
+<a href="https://www.youtube.com/embed/uCcWqhFQyiw?list=PLV-fssgqlwPSwQPcX1yuhZEjpwVyBJcAh
+" target="_blank"><img src="/images/humanoid2017.png" 
+alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
