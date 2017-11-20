@@ -20,7 +20,6 @@ Individual
   * Duties included: 
     * Research model-free control of bipedal walking for humanoid robotics 
     * Theoretical proof and simulation validation of online parameter estimation to obtain robust control of bipedal walking
-    * Simulation 
   * Supervisor: Dr. Zhibin Li
 
 * 09.2015 - 04.2016, Missile impact on snow (Final year project)
