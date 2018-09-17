@@ -8,6 +8,20 @@ collection: portfolio
 
 Individual
 ======
+* 02.2018 - 09.2018,  Estimation of Tissue Oxygen Saturation based on Image to Image Translation (Invidiual project)
+  * Biophotonics Lab, Imperial College London 
+  * Duties included:
+    * The conditional Generative Adversarial Networks (cGAN) was used to develop pixel-level image-to-image translation approach, called RGB2StO2, to estimate tissue oxygen saturation (StO2) from RGB images directly
+    * Dual-input network, called Dual2StO2, was developed to investigate the optimal setting of the fibre bundle to capture meaningful and informative images from HSI camera. 
+  * Supervisor: Prof.Daniel S Elson
+
+* Summer 2017,  Academic research internship in legged robot
+  * Intelligence Robot Lab, Zhejiang University 
+  * Duties included:
+    * Robust control of bipedal walking for legged robot 
+    * Carried out physical experiment 
+  * Supervisor: Dr. Qiuguo Zhu
+
 * Summer 2017,  Academic research internship in legged robot
   * Intelligence Robot Lab, Zhejiang University 
   * Duties included:
