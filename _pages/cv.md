@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* 10.2017-present, Imperial College London, 
+* 10.2017-09.2018, Imperial College London, 
   * MRes Medical Robotics and Image Guided Intervention
   * Course: Medical Robotics and Instrumentation, Minimally Invasive Surgery, Medical Imaging, Image Guided Intervention, Body, sensor and networks
+  * Individual Project: Estimation of Tissue Oxygen Saturation based on Image to Image Translation
+		
 * 09.2013-06.2016, The University of Edinburgh
   * M. Eng (Hons) Mechanical Engineering (2:1)
   * Course: Mechanical Engineering Design (71), Computer Aided Engineering (79), Solid Mechanics (92), Dynamics (77), Fluid Mechanics (77), Advanced Dynamics and Applications (68)
-
 
 * 09.2011-07.2013,  South China University of Technology
   * B. Eng. Mechanical Engineering and Automation 
