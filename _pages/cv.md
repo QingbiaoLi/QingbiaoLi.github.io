@@ -11,8 +11,12 @@ redirect_from:
 
 Education
 ======
-* 10.2017-09.2018, Imperial College London, 
-  * MRes Medical Robotics and Image Guided Intervention
+* 10.2018-Present, University of Cambridge
+  * University of Cambridge, Supervisor: Dr Amanda Prorok
+  * Research Interest: Develop optimal multi-agent path planning framework with trainable communication policy of heterogeneous agents/robots in cooperative tasks, including mobility-on-demand, automated warehouse and smart cities. 
+
+* 10.2017-09.2018, Imperial College London 
+  * MRes Medical Robotics and Image Guided Intervention (Distinction) 
   * Course: Medical Robotics and Instrumentation, Minimally Invasive Surgery, Medical Imaging, Image Guided Intervention, Body, sensor and networks
   * Individual Project: Estimation of Tissue Oxygen Saturation based on Image to Image Translation
 		

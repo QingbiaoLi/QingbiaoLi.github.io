@@ -1,9 +1,9 @@
 ---
 title: "Estimation of Tissue Oxygen Saturation from RGB Images based on Pixel-level Image Translation"
 collection: publications
-permalink: /publication/2017-paper-dynamicwalking-ICHR
+permalink: /publication/2018-RGB2StO2-HSMR
 excerpt: ''
-date: 2018-4-19
+date: 2018-6-21
 venue: 'The Hamlyn Symposium on Medical Robotics'
 paperurl: 'http://qingbiaoli.github.io/files/HSMR2018.pdf'
 citation: 'Li, Q. B., Zhou, X. Y., Lin, J., Zheng, J. Q., Clancy, N. T., & Elson, D. S. (2018). Estimation of Tissue Oxygen Saturation from RGB Images based on Pixel-level Image Translation. arXiv preprint arXiv:1804.07116.'
