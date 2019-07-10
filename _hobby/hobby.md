@@ -9,6 +9,7 @@ permalink: /hobby/
 
 I like:
 * Swimming
+* Table tennis
 * Movie
 * Photography
 * Chinese bamboo flute
