@@ -87,7 +87,7 @@ Teaching
 Talks
 ======
   <ul>{% for post in site.talks %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-talk.html %}
   {% endfor %}</ul>
   
 
