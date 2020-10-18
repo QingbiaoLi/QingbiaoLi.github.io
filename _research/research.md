@@ -6,6 +6,14 @@ author_profile: true
 collection: portfolio
 ---
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+ 
+
 Individual
 ======
 * 02.2018 - 09.2018,  Estimation of Tissue Oxygen Saturation based on Image to Image Translation (Invidiual project)
@@ -22,13 +30,6 @@ Individual
     * Carried out physical experiment 
   * Supervisor: Dr. Qiuguo Zhu
 
-* Summer 2017,  Academic research internship in legged robot
-  * Intelligence Robot Lab, Zhejiang University 
-  * Duties included:
-    * Robust control of bipedal walking for legged robot 
-    * Carried out physical experiment 
-  * Supervisor: Dr. Qiuguo Zhu
-
 * 09.2016 - 06.2017, Academic research internship in humanoid robot
   * The University of Edinburgh
   * Duties included: 
@@ -36,7 +37,7 @@ Individual
     * Theoretical proof and simulation validation of online parameter estimation to obtain robust control of bipedal walking
   * Supervisor: Dr. Zhibin Li
 
-* 09.2015 - 04.2016, Missile impact on snow (Final year project)
+* 09.2015 - 04.2016, Missile impact on snow (MEng thesis)
   * The University of Edinburgh
   * Project description:
     * To understand the impact dynamics of the impactor and its interaction with different types of snow, covering a range of impact energies, the structure and properties of snow relate to the behaviour of the impactor.
@@ -69,7 +70,7 @@ Group
   * Project outcome: 
     * Undertaking 
 
-* 09-11.2014, CCS design project
+<!-- * 09-11.2014, CCS design project
   * The University of Edinburgh
   * Supervisor: Dr Mathieu Lucquiaud 
   * Project description:
@@ -101,12 +102,6 @@ Group
     * Create animation of final project 
   * Project outcome:
     * As a solution to the problem of renewable clean cooking technologies for the town of Codo in the Lautém district of Timor-Leste.
+ -->
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
- 

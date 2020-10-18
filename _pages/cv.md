@@ -32,8 +32,11 @@ Education
   * Artificial Intelligence Planning, Machine Learning, Machine Learning Techniques, Introduction to Robotics, An introduction to Interactive Programming in Python.
   * [MOOC Certificates](http://qingbiaoli.github.io/files/MOOC_Certificates.pdf)
 
-Competition and Awards
+Honors and Awards
 ======
+* 10.2018-Present, PhD Studentship
+  * University of Cambridge
+
 * 10.2015 - 01.2016,  Hyperloop Team Member, Levitation Group
   * Awarded by Space Exploration Technologies Corporation for Subsystem Excellence Award [Links](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-35384238)
   * Description:
@@ -43,14 +46,16 @@ Competition and Awards
     * Design the suspension by Solid Edge and air bearing system 
     * Validate the reliability of the design via simulation in MATLAB and Star-CCM+
   
-* 09.2013-09.2015, International Student Scholarship
-  * Awarded by The University of Edinburgh for £ 2000/year,
+* 09.2013-09.2016, International Student Scholarship
+  * Awarded by The University of Edinburgh for £ 2000/year
+
 * 12.2012,  First Prize of “ThyssenKrupp” Elevator Cab Design Competition
   * Awarded by School of Automation Science and Engineering, SCUT,China
   * Section 1 in Portfolio
+<!-- 
 * 12.2012, Excellent Student Union Executive
   * Awarded by Student Union, School of Mechanical & Automotive Engineering, SCUT,China
-
+ -->
 
 Skills
 ======
@@ -79,6 +84,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
 Service and leadership
 ======
 * 09.2012-06.2013, Senior Technical Officer
