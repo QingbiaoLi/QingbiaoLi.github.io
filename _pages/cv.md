@@ -60,7 +60,7 @@ Honors and Awards
 Skills
 ======
 * Programming: 
-  * C++, Python, MATLAB 
+  * Python, PyTorch, PyTorch Geometric, Deep Graph Library (DGI), Numpy, MATLAB, C++ 
 * Robotics field: 
   * ROS
 * CAD Software:
