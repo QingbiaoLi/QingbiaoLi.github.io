@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<!-- Education -->
+<!-- ====== -->
 * 10.2018-Present, University of Cambridge
   * University of Cambridge, Supervisor: Dr Amanda Prorok
   * Research Interest: Develop optimal multi-agent path planning framework with trainable communication policy of heterogeneous agents/robots in cooperative tasks, including mobility-on-demand, automated warehouse and smart cities. 
@@ -30,7 +30,7 @@ Education
 
 * Self - learning through MOOC:
   * Artificial Intelligence Planning, Machine Learning, Machine Learning Techniques, Introduction to Robotics, An introduction to Interactive Programming in Python.
-  * [MOOC Certificates](http://qingbiaoli.github.io/files/MOOC_Certificates.pdf)
+  * [MOOC Certificates](./files/MOOC_Certificates.pdf)
 
 Honors and Awards
 ======
@@ -84,12 +84,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk.html %}
-  {% endfor %}</ul>
-
 Talks
 ======
   <ul>{% for post in site.talks %}
