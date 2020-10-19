@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Shenzhen, PR.China",
+    "Shenzhen, China",
     22.5431,
     114.0579
   ],
@@ -9,4 +9,5 @@ var addressPoints = [
     51.5073219,
     -0.1276473
   ],
+
 ];
