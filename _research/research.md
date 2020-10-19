@@ -6,11 +6,6 @@ author_profile: true
 collection: portfolio
 ---
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
  
 
@@ -105,3 +100,9 @@ Group
  -->
 
 
+<!-- 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
