@@ -6,17 +6,45 @@ author_profile: true
 collection: portfolio
 ---
 
-  
+<html>
+<hr color="000000" />
+</html>
+<br/>  
  
 
-Individual
-======
-* 02.2018 - 09.2018,  Estimation of Tissue Oxygen Saturation based on Image to Image Translation (Invidiual project)
+
+# <i>Individual Project</i>
+---
+## <b>Estimation of Tissue Oxygen Saturation based on Image to Image Translation</b>
+* 2018, _Imperial College London, London, UK_
+<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
+<div class="dspcont" style='display:none;'>
+  <fieldset>
+  <ul>
+    <li><b>Motivation</b>:Investigate a non-invasive intra-operative measurement of tissue oxygen saturation based on Hyperspectral Imaging.</li>
+    <li><b>Supervisor</b>:Prof.Daniel S Elson </li>
+    <li><b>Abstract</b>: 
+      <ul>
+        <li>The conditional Generative Adversarial Networks (cGAN) was used to develop pixel-level image-to-image translation approach, called RGB2StO2, to estimate tissue oxygen saturation (StO2) from RGB images directly. </li>
+        <li>Dual-input network, called Dual2StO2, was developed to investigate the optimal setting of the fibre bundle to capture meaningful and informative images from HSI camera. </li>
+      </ul>
+    </li>
+    <li>[<u><a href="https://qingbiaoli.github.io/publication/2018-RGB2StO2-HSMR">publication1</a></u>],[<u><a href="https://link.springer.com/content/pdf/10.1007%2Fs11548-019-01940-2.pdf">publication2</a></u>]</li>
+  </ul>
+  <br/>
+  <img src='/images/Dual2StO2.png' />
+  </fieldset>
+</div>
+<hr color="#FFFFFF" />
+
+<!-- Individual
+====== -->
+<!-- * 02.2018 - 09.2018,  Estimation of Tissue Oxygen Saturation based on Image to Image Translation
   * Biophotonics Lab, Imperial College London 
   * Duties included:
     * The conditional Generative Adversarial Networks (cGAN) was used to develop pixel-level image-to-image translation approach, called RGB2StO2, to estimate tissue oxygen saturation (StO2) from RGB images directly
     * Dual-input network, called Dual2StO2, was developed to investigate the optimal setting of the fibre bundle to capture meaningful and informative images from HSI camera. 
-  * Supervisor: Prof.Daniel S Elson
+  * Supervisor: Prof.Daniel S Elson -->
 
 * Summer 2017,  Academic research internship in legged robot
   * Intelligence Robot Lab, Zhejiang University 
