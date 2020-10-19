@@ -13,7 +13,7 @@ redirect_from:
 <!-- ====== -->
 * 10.2018-Present, University of Cambridge
   * University of Cambridge, Supervisor: Dr Amanda Prorok
-  * Research Interest: Develop optimal multi-agent path planning framework with trainable communication policy of heterogeneous agents/robots in cooperative tasks, including mobility-on-demand, automated warehouse and smart cities. 
+<!--   * Research Interest: Develop optimal multi-agent path planning framework with trainable communication policy of heterogeneous agents/robots in cooperative tasks, including mobility-on-demand, automated warehouse and smart cities.  -->
 
 * 10.2017-09.2018, Imperial College London 
   * MRes Medical Robotics and Image Guided Intervention (Distinction) 
@@ -77,18 +77,20 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
   
 
 Service and leadership
@@ -96,6 +98,12 @@ Service and leadership
 * 09.2012-06.2013, Senior Technical Officer
   * Department of Technology, R&D Centre, BBT Student Innovation Centre
   * I was in a team of IT fans called to develop website (http://www.100steps.net/), Android & IOS application for Shuttle bus location, second hand online market and etc
+
+
+Portfolio
+======
+"This is the [portfolio](./files/Portfolio_CAD.pdf) of CAD model "
+
 
 Language Proficiency
 ======

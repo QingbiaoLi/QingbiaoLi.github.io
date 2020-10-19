@@ -35,19 +35,17 @@ Individual
 * 09.2015 - 04.2016, Missile impact on snow (MEng thesis)
   * The University of Edinburgh
   * Project description:
-    * To understand the impact dynamics of the impactor and its interaction with different types of snow, covering a range of impact energies, the structure and properties of snow relate to the behaviour of the impactor.
+    * This study aimed to optimize the design of the impactor developed by British Antarctic survey for long-term tracking on the motion of the glaciers. 
+    * Investigated the characteristics of the impact dynamics of the impactor and its interaction with different types of snow, covering a range of impact energies. 
   * Duties included: 
-    * Mechanical design of impactor
-    * Practical experiment in cold room
-    * Signal processing of accelerometer
+    * CAD modeeling of the impactor. Signal processing of data from accelerometer, and analysed on the results.
   * Supervisor: Dr Filipe Teixeira-Dias 
 
 * 03.2015 - 08.2015, Industrial Robotics Researcher Assistant (Funded by Erasmus+)
   * The Institute of Production Engineering and Machine Tools (IFW), Leibniz University of Hanover
   * Duties included: 
-    * Mechanism design for industrial robot for industrial-level milling process
-    * CAD modelling of potential solution of transmission device
-    * Kinematic simulation
+    * Mechanism design for industrial robot for industrial-level milling process, includes CAD modelling transmission device and robot arm.
+    * Kinematic simulation to analyse torque distribution during operation.
   * Supervisor: Dipl.-Ing.Thomas Lepper 
 
 
@@ -59,11 +57,11 @@ Group
   * Project description:
     * Simultaneously mapping the human colon and tracking the endoscope pose in real time during flexible endoscopy
   * Duties included: 
-    * Research on available visual-inertial SLAM and modify this SLAM algorithm for small scale, near focus
-    * Registration and surface reconstruction based on point cloud
+    * Investigated available visual SLAM methods (ORB-SLAM) and visual-inertial SLAM methods (VINS-Mono, OKVIS), and customize them for small scale, near focus.
+    * Our SLAM pipeline can obtain conclusive registration and surface reconstruction based on point cloud data.
     * Computer Vision, visual-inertial SLAM  
-  * Project outcome: 
-    * Undertaking 
+<!--   * Project outcome: 
+    * Undertaking  -->
 
 <!-- * 09-11.2014, CCS design project
   * The University of Edinburgh

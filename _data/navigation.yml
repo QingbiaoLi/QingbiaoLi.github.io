@@ -4,20 +4,20 @@ main:
   - title: "Research Experience"
     url: /research/  
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Teaching"
+  - title: "Teaching and Talks"
     url: /teaching/   
 
-  - title: "Talks"
-    url: /talks/  
+  # - title: "Talks"
+  #   url: /talks/  
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
 
   - title: "Hobby"
     url: /hobby/  
