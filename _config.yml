@@ -266,7 +266,7 @@ defaults:
   # _services
   - scope:
       path: ""
-      type: services
+      type: teaching
     values:
       layout: single
       author_profile: true
