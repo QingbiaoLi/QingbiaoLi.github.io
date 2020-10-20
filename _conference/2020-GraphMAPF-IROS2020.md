@@ -8,7 +8,7 @@ venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IRO
 paperurl: 'https://arxiv.org/abs/1912.06095'
 citation: 'Li, Q., Gama, F., Ribeiro, A. and Prorok, A., 2019. Graph Neural Networks for Decentralized Multi-robot Path Planning. arXiv preprint arXiv:1912.06095.'
 ---
-<a href="https://youtu.be/AGDk2RozpMQ
+<a href="https://drive.google.com/file/d/1mhYtMVwwkmpTKEkw11CdpiXGaP1j87U0/view?usp=sharing
 " target="_blank"><img src="/images/customized/GraphMAPF2020.png" 
 alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
 

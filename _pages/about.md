@@ -80,11 +80,11 @@ Publications
  -->
 
 ## <i>Journal</i>
-  <ul>{% for post in site.journal %}
+  <ul>{% for post in site.journal reversed %}
     {% include archive-single-publications.html %}
   {% endfor %}</ul>
 
 ## <i>Conference</i>
-  <ul>{% for post in site.conference %}
+  <ul>{% for post in site.conference reversed %}
     {% include archive-single-publications.html %}
   {% endfor %}</ul>
