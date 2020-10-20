@@ -17,6 +17,7 @@ redirect_from:
 
 
 
+<hr color="#FFFFFF" />
 
 
 Biography
