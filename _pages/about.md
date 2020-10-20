@@ -47,11 +47,11 @@ Publications
  -->
 
 ## <i>Journal</i>
-  <ul>{% for post in site.publications_journal %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.journal %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
 
 ## <i>Conference</i>
-  <ul>{% for post in site.publications_conference %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.conference %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
