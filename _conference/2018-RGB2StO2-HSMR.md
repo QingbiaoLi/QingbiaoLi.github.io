@@ -2,7 +2,7 @@
 title: "Estimation of Tissue Oxygen Saturation from RGB Images based on Pixel-level Image Translation"
 collection: conference
 permalink: /publications/2018-RGB2StO2-HSMR
-excerpt: ''
+excerpt: true
 read_modre: 'disabled'
 date: 2018-6-21
 venue: 'The Hamlyn Symposium on Medical Robotics'
