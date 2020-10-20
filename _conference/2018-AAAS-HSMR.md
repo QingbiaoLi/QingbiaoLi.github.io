@@ -2,7 +2,7 @@
 title: "Abdominal Aortic Aneurysm Segmentation with a Small Number of Training Subjects"
 collection: conference
 permalink: /publications/2018-AAAS-HSMR
-excerpt: true
+excerpt: "true"
 read_modre: 'disabled'
 date: 2018-4-19
 venue: 'The Hamlyn Symposium on Medical Robotics'
