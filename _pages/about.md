@@ -11,8 +11,8 @@ redirect_from:
 
 
 
-<p>Despite knowing the journey and where it leads, I embrace it, and I welcome every moment of it. 
- 											-- Dr. Louise Banks, Arrival (2016)</p>
+<p>Despite knowing the journey and where it leads, I embrace it, and I welcome every moment of it.</p>
+<p style="text-align: right;">-- Dr. Louise Banks, Arrival (2016)</p>
 
 
 
