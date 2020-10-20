@@ -75,8 +75,8 @@ collection: portfolio
     <li>[<u><a href="http://qingbiaoli.github.io/files/humanoid2017.pdf">publication1</a></u>]</li>
   </ul>
   <br/>
-  <img src='/images/customized/Humanoid2017_demo.png' />
-  <img src='/images/customized/Humanoid_case2.gif' />
+    <img src='/images/customized/Humanoid2017_demo.png' />
+    <img src='/images/customized/Humanoid_case2.gif' />
   </fieldset>
 </div>
 <hr color="#FFFFFF" />
@@ -118,13 +118,15 @@ collection: portfolio
     <li><b>Duties included</b>: 
       <ul>
         <li>CAD modeeling of the impactor. </li>
-        <li>Signal processing of data from accelerometer, and analysed on the results.  </li>
+        <li>Signal processing of data from accelerometer, and analysed on the results.   </li>
       </ul>
     </li>
+  </ul>
   <br/>
   </fieldset>
 </div>
 <hr color="#FFFFFF" />
+
 
 ## <b>Industrial Robotics Researcher Assistant (Funded by Erasmus+)</b>
 * 2015, _TThe Institute of Production Engineering and Machine Tools (IFW), Leibniz University of Hanover_
@@ -139,6 +141,7 @@ collection: portfolio
         <li>Kinematic simulation to analyse torque distribution during operation. </li>
       </ul>
     </li>
+  </ul>
   <br/>
   </fieldset>
 </div>
@@ -204,6 +207,7 @@ collection: portfolio
         <li>Our SLAM pipeline can obtain conclusive registration and surface reconstruction based on point cloud data. </li>
       </ul>
     </li>
+  </ul>
   <br/>
   <img src='/images/customized/ORB_SLAM2_demo.gif' />
   <img src='/images/customized/surface_reconsuction.gif' />
