@@ -20,8 +20,8 @@ redirect_from:
 
 ## <i>Imperial College London</i>, 2017-2018 ##
 * Hamlyn Center for Robotic Surgery & Department of Surgery and Cancer
-* <b>MRes Medical Robotics and Image Guided Intervention (Distinction)<b> 
-* Individual Project: Estimation of Tissue Oxygen Saturation based on Image to Image Translation
+* <b>MRes Medical Robotics and Image Guided Intervention (Distinction)</b>
+* <b>Individual Project</b>: Estimation of Tissue Oxygen Saturation based on Image to Image Translation
   <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
   <div class="dspcont" style='display:none;'>
     <ul>
@@ -35,8 +35,8 @@ redirect_from:
 
 ## <i>The University of Edinburgh</i>, 2013-2016 ##
 * School of Engineering
-* <b>M. Eng (Hons) Mechanical Engineering<b> 
-* Individual Project: Missile Impact on Snow inspried by project from British Antarctic Survey.
+* <b>M. Eng (Hons) Mechanical Engineering</b>
+* <b>Individual Project</b>: Missile Impact on Snow inspried by project from British Antarctic Survey.
   <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
   <div class="dspcont" style='display:none;'>
     <ul>
@@ -51,7 +51,7 @@ redirect_from:
 
 ## <i>South China University of Technology</i>, 2011-2013 ##
 * School of Automation Science & Engineering
-* <b>B. Eng. Mechanical Engineering and Automation <b> 
+* <b>B. Eng. Mechanical Engineering and Automation </b>
   <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
   <div class="dspcont" style='display:none;'>
     <ul>
@@ -80,10 +80,10 @@ redirect_from:
 
 Honors and Awards
 ======
-## <i>PhD Studentship</i>, 2018-Present##
+## <i>PhD Studentship</i>, 2018-Present
 * University of Cambridge
 
-## <i>Subsystem Excellence Award at Hyperloop Pod Competition</i>, 2016##
+## <i>Subsystem Excellence Award at Hyperloop Pod Competition</i>, 2016
 * Awarded by Space Exploration Technologies Corporation [Links](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-35384238)
   <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Description</a></h3>
   <div class="dspcont" style='display:none;'>
@@ -100,12 +100,12 @@ Honors and Awards
     </ul>
   </div>
 
-## <i>International Student Scholarship</i>, 2013-2016##
+## <i>International Student Scholarship</i>, 2013-2016
 * Awarded by The University of Edinburgh for £ 2000/year
 
-## <i>First Prize of “ThyssenKrupp” Elevator Cab Design Competition</i>, 2012##
+## <i>First Prize of “ThyssenKrupp” Elevator Cab Design Competition</i>, 2012
 * Awarded by School of Automation Science and Engineering, SCUT,China
-* Section 1 in [<b>Portfolio<b>](../files/Portfolio_CAD.pdf)
+* Section 1 in <b>[Portfolio](../files/Portfolio_CAD.pdf)</b>
 
 <!-- 
 * 12.2012, Excellent Student Union Executive
