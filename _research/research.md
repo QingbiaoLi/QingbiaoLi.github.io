@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Experience"
+title: "Individual Project"
 permalink: /research/
 author_profile: true
 collection: portfolio
@@ -13,7 +13,7 @@ collection: portfolio
  
 
 
-# <i>Individual Project</i>
+<!-- # <i>Individual Project</i> -->
 ---
 ## <b>Estimation of Tissue Oxygen Saturation based on Image to Image Translation</b>
 * 2018, _The Hamlyn Centre, Imperial College London, London, UK_

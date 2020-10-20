@@ -76,6 +76,7 @@ redirect_from:
     </ul>
   </div>
 
+---
 
 Honors and Awards
 ======
@@ -104,7 +105,7 @@ Honors and Awards
 
 ## <i>First Prize of “ThyssenKrupp” Elevator Cab Design Competition</i>, 2012##
 * Awarded by School of Automation Science and Engineering, SCUT,China
-* Section 1 in [portfolio](./files/Portfolio_CAD.pdf)
+* Section 1 in [<b>Portfolio<b>](../files/Portfolio_CAD.pdf)
 
 <!-- 
 * 12.2012, Excellent Student Union Executive
@@ -139,6 +140,6 @@ Teaching
 
 Portfolio
 ======
-"This is the [portfolio](./files/Portfolio_CAD.pdf) of CAD model "
+"This is the [portfolio](../files/Portfolio_CAD.pdf) of CAD model "
 
 
