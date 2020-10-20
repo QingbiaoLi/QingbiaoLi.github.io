@@ -53,7 +53,7 @@ His research can be applied in mobility-on-demand, automated warehouse and smart
 
 <p>He has published papers in medical imaging area (IJCARS) and robotics field (IEEE IROS, IEEE Humanoids and AAMAS). He has served as a reviewer for IEEE IROS, IEEE ICRA, IEEE RA-L, IEEE T-RO and AAMAS.</p>
 
-<p>Details of his CV can be found at <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>. <b>He is open to collaboration opportunities</b> (anytime & anywhere) and <b>research internships</b> (open for Summer 2021). Feel free to contact by Email (ql295[AT]cam.ac.uk).</p>
+<p><b>He is open to collaboration opportunities</b> (anytime & anywhere) and <b>research internships</b> (open for Summer 2021). Feel free to contact by Email (ql295[AT]cam.ac.uk). Details of his CV can be found at <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
 
 
 </div>
