@@ -24,7 +24,7 @@ Biography
 ======
 Qingbiao Li is a PhD student at ProrokLab, the Digital Technology Group (DTG) at the University of Cambridge under the supervision of [Dr Amanda Prorok](https://www.proroklab.org/). 
 His research interests include:
-* Robot learning, Multi-robot Path Planning, Graph Neural Networks (GNNs), Imitation Learning and Reinforcement Learning.
+* Robot Learning, Multi-robot Path Planning, Graph Neural Networks (GNNs), Imitation Learning and Reinforcement Learning.
 
 During his PhD, he focus on **communication-aware motion planning** for multi-robot coordination. 
 He is effectively investigating **Graph Neural Networks (GNN)** to build communication channels for multi-agent and multi-robot systems so that agents/robots can learn how to communicate between each other explicitly. 
