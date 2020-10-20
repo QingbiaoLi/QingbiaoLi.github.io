@@ -3,7 +3,7 @@ title: "Estimation of tissue oxygen saturation from RGB images and sparse hypers
 collection: journal
 permalink: /publications/2019-Dual2StO2-IPCAI2019
 excerpt: ""
-read_more: 'disabled'
+read_more: disabled
 date: 2019-03-21
 venue: 'International Journal of Computer Assisted Radiology and Surgery'
 paperurl: 'https://link.springer.com/content/pdf/10.1007%2Fs11548-019-01940-2.pdf'
