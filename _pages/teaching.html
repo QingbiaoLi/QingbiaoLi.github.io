@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching
-======
+<!-- Teaching
+====== -->
+# <i>Teaching</i>
 
 {% include base_path %}
 
@@ -15,8 +16,13 @@ Teaching
 {% endfor %}
 
 
-Talks
-======
+<!-- Talks
+====== -->
+# <i>Talks</i>
+
+{% for post in site.talks reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 {% if site.talkmap_link == true %}
 
@@ -24,6 +30,3 @@ Talks
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single.html %}
-{% endfor %}
