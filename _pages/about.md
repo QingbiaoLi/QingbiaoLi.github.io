@@ -31,7 +31,6 @@ He has published papers in medical imaging area (IJCARS) and robotics (IEEE IROS
 Details of his CV can be found at [PDF](./files/CV_QingbiaoLi.pdf).
 
 
-
 Publications
 ======
 <!--   <ul>{% for post in site.publications reversed %}
