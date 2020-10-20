@@ -140,6 +140,7 @@ Teaching
 
   
 
+<hr color="#FFFFFF" />
 
 Portfolio
 ======
