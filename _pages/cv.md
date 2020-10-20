@@ -86,6 +86,7 @@ redirect_from:
 
 Honors and Awards
 ======
+---
 <!-- ## <i>PhD Studentship</i>, 2018-Present -->
 <h2>PhD Studentship, 2018-Present</h2>
 * University of Cambridge
