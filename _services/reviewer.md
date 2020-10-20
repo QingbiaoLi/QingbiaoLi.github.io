@@ -4,6 +4,7 @@ layout: archive
 permalink: /work/
 author_profile: true
 ---
+<hr color="000000"/>
 
 <!-- # <i>Academic Services</i> -->
 
