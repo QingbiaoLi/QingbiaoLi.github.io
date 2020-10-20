@@ -132,7 +132,7 @@ collection: portfolio
 <div class="dspcont" style='display:none;'>
   <fieldset>
   <ul>
-    <li><b>Supervisor</b>:Dr. George Mylonas </li>
+    <li><b>Supervisor</b>: Dr. George Mylonas </li>
     <li><b>Project description</b>: 
       <ul>
         <li>Simultaneously mapping the human colon and tracking the endoscope pose in real time during flexible endoscopy. </li>
