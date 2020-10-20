@@ -28,7 +28,7 @@ collection: portfolio
     <li>[<u><a href="http://qingbiaoli.github.io/files/HSMR2018.pdf">RGB2StO2.pdf</a></u>],[<u><a href="https://link.springer.com/content/pdf/10.1007%2Fs11548-019-01940-2.pdf">Dual2StO2.pdf</a></u>]</li>
   </ul>
   <br/>
-  <img src='/images/customized/Dual2StO2.png' />
+  <img src='/images/customized/Dual2StO2.png' width="560" height="315"/>
   </fieldset>
 </div>
 <hr color="#FFFFFF" />
@@ -71,8 +71,8 @@ collection: portfolio
     <li>[<u><a href="http://qingbiaoli.github.io/files/humanoid2017.pdf">Humanoid2017.pdf</a></u>]</li>
   </ul>
   <br/>
-    <img src='/images/customized/Humanoid2017_demo.png' />
-    <img src='/images/customized/Humanoid_case2.gif' />
+    <img src='/images/customized/Humanoid2017_demo.png' width="560" height="315"/>
+    <img src='/images/customized/Humanoid_case2.gif' width="560" height="315"/>
   </fieldset>
 </div>
 <hr color="#FFFFFF" />
@@ -146,8 +146,8 @@ collection: portfolio
     </li>
   </ul>
   <br/>
-  <img src='/images/customized/ORB_SLAM2_demo.gif' />
-  <img src='/images/customized/surface_reconsuction.gif' />
+  <img src='/images/customized/ORB_SLAM2_demo.gif' width="560" height="315"/>
+  <img src='/images/customized/surface_reconsuction.gif' width="560" height="315"/>
   </fieldset>
 </div>
 <hr color="#FFFFFF" />
