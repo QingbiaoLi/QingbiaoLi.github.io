@@ -38,7 +38,7 @@ Details of his CV can be found at [PDF](./files/CV_QingbiaoLi.pdf). -->
 
 <div style="text-align: justify"> 
 
-<p>Qingbiao Li is a PhD student at ProrokLab, the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/", style="color:#5dbcd2;">Dr Amanda Prorok</a>. 
+<p>Qingbiao Li is a PhD student at ProrokLab, the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/">Dr Amanda Prorok</a>. 
 His research interests include:</p>
 <ul>
 <li>Robot Learning, Multi-robot Path Planning, Graph Neural Networks (GNNs), Imitation Learning and Reinforcement Learning.</li>
