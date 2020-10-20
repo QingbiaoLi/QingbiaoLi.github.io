@@ -7,10 +7,10 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "CV"
+  - title: "Education & Awards"
     url: /cv/
 
-  - title: "Work & Services"
+  - title: "Talks & Services"
     url: /teaching/   
 
   # - title: "Talks"
