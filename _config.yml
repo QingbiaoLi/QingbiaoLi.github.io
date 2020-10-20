@@ -81,7 +81,8 @@ analytics:
 author:
   name             : "Qingbiao Li <br />李庆标"
   avatar           : "photo_li.JPG"
-  bio              : "Roboticist"
+  # bio              : "Roboticist"
+  bio              : "PhD student at University of Cambridge"
   location         : "Cambridge"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=zyj2sIgAAAAJ&hl=zh-TW"
