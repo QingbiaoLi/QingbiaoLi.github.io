@@ -65,7 +65,7 @@ redirect_from:
 
 
 ## <i>Self - learning through MOOC</i> ##
-* <b>[MOOC Certificates](./files/MOOC_Certificates.pdf)<b> 
+* <b>[MOOC Certificates](../files/MOOC_Certificates.pdf)<b> 
   <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
   <div class="dspcont" style='display:none;'>
     <ul>
