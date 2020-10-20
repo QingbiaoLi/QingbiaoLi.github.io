@@ -3,6 +3,7 @@ title: "Estimation of Tissue Oxygen Saturation from RGB Images based on Pixel-le
 collection: conference
 permalink: /publications/2018-RGB2StO2-HSMR
 excerpt: ''
+read_modre: 'disabled'
 date: 2018-6-21
 venue: 'The Hamlyn Symposium on Medical Robotics'
 paperurl: 'http://qingbiaoli.github.io/files/HSMR2018.pdf'
