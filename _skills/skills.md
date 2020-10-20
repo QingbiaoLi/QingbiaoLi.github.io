@@ -19,14 +19,16 @@ permalink: /skill/
 * Laboratory skills:
   * Hand-sketching, Welding, Drilling, 3D printing (Ulterimaker), Laser cutting, CNC manipulation, SolidCAM and Manufacturing
 
+<hr>
 
 Language Proficiency
 ======
 * English (Fluent) 
-* German (Basic) 
+* German (Basic, Passed A2) 
 * Chinese:
   * Mandarin (Native), Cantonese (Intermediate) and Hakka Dialect (Native)
 
+<hr>
 
 Hobby
 ======

@@ -21,7 +21,7 @@ redirect_from:
 ## <i>Imperial College London</i>, 2017-2018 ##
 * Hamlyn Center for Robotic Surgery & Department of Surgery and Cancer
 * <b>MRes Medical Robotics and Image Guided Intervention (Distinction)</b>
-* <b>Individual Project</b>: Estimation of Tissue Oxygen Saturation based on Image to Image Translation
+* <b>Individual Project</b>: Estimation of Tissue Oxygen Saturation based on Image to Image Translation.
   <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
   <div class="dspcont" style='display:none;'>
     <ul>
@@ -84,7 +84,7 @@ Honors and Awards
 * University of Cambridge
 
 ## <i>Subsystem Excellence Award at Hyperloop Pod Competition</i>, 2016
-* Awarded by Space Exploration Technologies Corporation [Links](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-35384238)
+* Awarded by Space Exploration Technologies Corporation [Links](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-35384238).
   <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Details</a></h3>
   <div class="dspcont" style='display:none;'>
     <ul>
@@ -104,11 +104,11 @@ Honors and Awards
   </div>
 
 ## <i>International Student Scholarship</i>, 2013-2016
-* Awarded by The University of Edinburgh for £ 2000/year
+* Awarded by The University of Edinburgh for £ 2000/year.
 
 ## <i>First Prize of “ThyssenKrupp” Elevator Cab Design Competition</i>, 2012
-* Awarded by School of Automation Science and Engineering, SCUT,China
-* Section 1 in <b>[Portfolio](../files/Portfolio_CAD.pdf)</b>
+* Awarded by School of Automation Science and Engineering, SCUT,China.
+* Section 1 in <b>[Portfolio](../files/Portfolio_CAD.pdf)</b>.
 
 <!-- 
 * 12.2012, Excellent Student Union Executive
