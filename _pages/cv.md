@@ -14,15 +14,15 @@ redirect_from:
 <!-- Education -->
 <!-- ====== -->
 <!-- ## <i>University of Cambridge</i>, 2018-Present ## -->
-<h2>University of Cambridge, 2018-Present</h2> 
-* Prorok Lab, Digital Technology Group (DTG)
+<h2>University of Cambridge</h2> 
+* 2018-Present, Prorok Lab, Digital Technology Group (DTG)
 * <b>PhD in Computer Science</b>
 <!--   * Research Interest: Develop optimal multi-agent path planning framework with trainable communication policy of heterogeneous agents/robots in cooperative tasks, including mobility-on-demand, automated warehouse and smart cities.  -->
 
 <!-- ## <i>Imperial College London</i>, 2017-2018 ## -->
-<h2>Imperial College London, 2017-2018</h2>
+<h2>Imperial College London</h2>
 
-* Hamlyn Center for Robotic Surgery & Department of Surgery and Cancer
+* 2017-2018, Hamlyn Center for Robotic Surgery & Department of Surgery and Cancer
 * <b>MRes Medical Robotics and Image Guided Intervention (Distinction)</b>
 * <b>Individual Project</b>: Estimation of Tissue Oxygen Saturation based on Image to Image Translation.
   <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
@@ -37,8 +37,8 @@ redirect_from:
   </div>
 
 <!-- ## <i>The University of Edinburgh</i>, 2013-2016 ## -->
-<h2>The University of Edinburgh, 2013-2016</h2>
-* School of Engineering
+<h2>The University of Edinburgh</h2>
+* 2013-2016, School of Engineering
 * <b>M. Eng (Hons) Mechanical Engineering</b>
 * <b>Individual Project</b>: Missile Impact on Snow inspried by project from British Antarctic Survey.
   <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
@@ -54,8 +54,8 @@ redirect_from:
   </div>
 
 <!-- ## <i>South China University of Technology</i>, 2011-2013 ## -->
-<h2>South China University of Technology, 2011-2013</h2>
-* School of Automation Science & Engineering
+<h2>South China University of Technology</h2>
+* 2011-2013, School of Automation Science & Engineering
 * <b>B. Eng. Mechanical Engineering and Automation </b>
   <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
   <div class="dspcont" style='display:none;'>
@@ -88,12 +88,12 @@ Honors and Awards
 ======
 
 <!-- ## <i>PhD Studentship</i>, 2018-Present -->
-<h2>PhD Studentship, 2018-Present</h2>
-* University of Cambridge
+<h2>PhD Studentship</h2>
+* 2018-Present, University of Cambridge
 
 <!-- ## <i>Subsystem Excellence Award at Hyperloop Pod Competition</i>, 2016 -->
-<h2>Subsystem Excellence Award at Hyperloop Pod Competition, 2016</h2>
-* Awarded by Space Exploration Technologies Corporation [Links](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-35384238).
+<h2>Subsystem Excellence Award at Hyperloop Pod Competition</h2>
+* 2016, awarded by Space Exploration Technologies Corporation [Links](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-35384238).
   <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Details</a></h3>
   <div class="dspcont" style='display:none;'>
     <ul>
@@ -113,12 +113,12 @@ Honors and Awards
   </div>
 
 <!-- ## <i>International Student Scholarship</i>, 2013-2016 -->
-<h2>International Student Scholarship, 2013-2016</h2>
-* Awarded by The University of Edinburgh for £ 2000/year.
+<h2>International Student Scholarship</h2>
+* 2013-2016, awarded by The University of Edinburgh for £ 2000/year.
 
 <!-- ## <i>First Prize of “ThyssenKrupp” Elevator Cab Design Competition</i>, 2012 -->
-<h2>First Prize of “ThyssenKrupp” Elevator Cab Design Competition, 2012</h2>
-* Awarded by School of Automation Science and Engineering, SCUT, China.
+<h2>First Prize of “ThyssenKrupp” Elevator Cab Design Competition</h2>
+* 2012, awarded by School of Automation Science and Engineering, SCUT, China.
 * Section 1 in <b>[Portfolio](../files/Portfolio_CAD.pdf)</b>.
 
 <!-- 
