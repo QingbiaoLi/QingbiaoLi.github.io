@@ -85,18 +85,21 @@ Honors and Awards
 
 ## <i>Subsystem Excellence Award at Hyperloop Pod Competition</i>, 2016
 * Awarded by Space Exploration Technologies Corporation [Links](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-35384238)
-  <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Description</a></h3>
+  <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Details</a></h3>
   <div class="dspcont" style='display:none;'>
     <ul>
-      <li>Conceptual high-speed transportation system competition organized by SpaceX. Hyperloop is incorporating reduced-pressure tubes in which pressurized capsules ride on an air cushion driven by linear induction motors and air compressors. </li>
-    </ul>
-  </div>
-  <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Duties included</a></h3>
-  <div class="dspcont" style='display:none;'>
-    <ul>
-      <li>In charge of the levitation group.</li>
-      <li>Design the suspension by Solid Edge and air bearing system.</li>
-      <li>Validate the reliability of the design via simulation in MATLAB and Star-CCM+.</li>
+      <li><b>Project description</b>: 
+      <ul>
+        <li>Conceptual high-speed transportation system competition organized by SpaceX. Hyperloop is incorporating reduced-pressure tubes in which pressurized capsules ride on an air cushion driven by linear induction motors and air compressors. </li>
+      </ul>
+    </li>
+    <li><b>Duties included</b>: 
+      <ul>
+        <li>In charge of the levitation group.</li>
+        <li>Design the suspension by Solid Edge and air bearing system.</li>
+        <li>Validate the reliability of the design via simulation in MATLAB and Star-CCM+.</li>
+      </ul>
+    </li>
     </ul>
   </div>
 
