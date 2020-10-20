@@ -39,8 +39,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-  {% include base_path %}
+{% include base_path %}
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+ -->
+
+## <i>Journal</i>
+  <ul>{% for post in site.publications_journal %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+## <i>Conference</i>
+  <ul>{% for post in site.publications_conference %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

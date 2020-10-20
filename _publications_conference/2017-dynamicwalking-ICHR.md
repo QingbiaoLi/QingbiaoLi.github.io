@@ -1,6 +1,6 @@
 ---
 title: "Robust Foot Placement Control for Dynamic Walking Using Online Parameter Estimation"
-collection: publications
+collection: publications_conference
 permalink: /publication/2017-paper-dynamicwalking-ICHR
 excerpt: ''
 date: 2017-11-15
