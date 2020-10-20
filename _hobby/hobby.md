@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Hobby"
+title: "Skills"
 collection: hobby
 author_profile: true
 permalink: /hobby/ 
 ---
 
-Skills
-======
+<!-- Skills -->
+<!-- ====== -->
 * Programming: 
   * Python, PyTorch, PyTorch Geometric, Deep Graph Library (DGI), Numpy, MATLAB, C++ 
 * Robotics field: 

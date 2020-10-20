@@ -6,11 +6,9 @@ author_profile: true
 collection: portfolio
 ---
 
-<html>
 <hr color="000000" />
-</html>
-<br/>  
- 
+
+{% include base_path %}
 
 
 <!-- # <i>Individual Project</i> -->

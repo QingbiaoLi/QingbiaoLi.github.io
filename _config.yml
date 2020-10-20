@@ -187,7 +187,9 @@ collections:
   hobby:
     output: true
     permalink: /:collection/:path/
-
+  services:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
@@ -261,7 +263,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true    
-
+  # _services
+  - scope:
+      path: ""
+      type: services
+    values:
+      layout: services
+      author_profile: true
+      share: true    
 
 # Sass/SCSS
 sass:

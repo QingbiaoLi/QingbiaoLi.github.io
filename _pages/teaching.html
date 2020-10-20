@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Talks"
 permalink: /teaching/
 author_profile: true
 ---
@@ -17,7 +17,7 @@ author_profile: true
 
 <!-- # <i>Talks</i>
 ##  <i>Talks</i> ##  -->
-<strong><b> Talks </b></strong>
+<!-- <strong><b> Talks </b></strong> -->
 
 {% for post in site.talks reversed %}
   {% include archive-single.html %}
@@ -47,8 +47,11 @@ author_profile: true
 ## <i>Service and leadership</i> ##  -->
 <!-- Service and leadership
 ====== -->
-<b>Senior Technical Officer, 2012-2013</b>
+<!-- <b>Senior Technical Officer, 2012-2013</b>
 Department of Technology, R&D Centre, BBT Student Innovation Centre
 
 He was in a team of IT fans called to develop website (http://www.100steps.net/), Android & IOS application for Shuttle bus location and second hand online market.
-
+ -->
+{% for post in site.services reversed %}
+  {% include archive-single.html %}
+{% endfor %}
