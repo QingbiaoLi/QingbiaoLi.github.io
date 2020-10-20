@@ -1,7 +1,7 @@
 ---
 title: "Robust Foot Placement Control for Dynamic Walking Using Online Parameter Estimation"
 collection: publications_conference
-permalink: /publications_conference/2017-paper-dynamicwalking-ICHR
+permalink: /publications/2017-paper-dynamicwalking-ICHR
 excerpt: ''
 date: 2017-11-15
 venue: 'IEEE Humanoids'

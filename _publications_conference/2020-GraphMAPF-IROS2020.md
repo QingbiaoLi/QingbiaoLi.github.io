@@ -1,7 +1,7 @@
 ---
 title: "Graph Neural Networks for Decentralized Multi-Robot Path Planning"
 collection: publications_conference
-permalink: /publications_conference/2020-GraphMAPF-IROS2020
+permalink: /publications/2020-GraphMAPF-IROS2020
 excerpt: ''
 date: 2020-10-25
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) '
