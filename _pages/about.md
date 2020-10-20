@@ -11,8 +11,8 @@ redirect_from:
 
 
 
- Despite knowing the journey and where it leads, I embrace it, and I welcome every moment of it. 
- 											-- Dr. Louise Banks, Arrival (2016)
+<p>Despite knowing the journey and where it leads, I embrace it, and I welcome every moment of it. 
+ 											-- Dr. Louise Banks, Arrival (2016)</p>
 
 
 
@@ -53,7 +53,7 @@ His research can be applied in mobility-on-demand, automated warehouse and smart
 
 <p>He has published papers in medical imaging area (IJCARS) and robotics field (IEEE IROS, IEEE Humanoids and AAMAS). He has served as a reviewer for IEEE IROS, IEEE ICRA, IEEE RA-L, IEEE T-RO and AAMAS.</p>
 
-<p>Details of his CV can be found at <a href="./files/CV_QingbiaoLi.pdf)" style="color:#5dbcd2;">PDF</a>.</p>
+<p>Details of his CV can be found at <a href="./files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
 
 </div>
 
