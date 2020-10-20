@@ -117,7 +117,7 @@ Honors and Awards
 
 <!-- ## <i>First Prize of “ThyssenKrupp” Elevator Cab Design Competition</i>, 2012 -->
 <h2>First Prize of “ThyssenKrupp” Elevator Cab Design Competition, 2012</h2>
-* Awarded by School of Automation Science and Engineering, SCUT,China.
+* Awarded by School of Automation Science and Engineering, SCUT, China.
 * Section 1 in <b>[Portfolio](../files/Portfolio_CAD.pdf)</b>.
 
 <!-- 
