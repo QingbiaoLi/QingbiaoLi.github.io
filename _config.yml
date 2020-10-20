@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Home"
+# title                    : "Qingbiao Li/ Mr, MEng"
 title_separator          : "-"
 name                     : &name "Qingbiao Li"
 description              : &description ""
