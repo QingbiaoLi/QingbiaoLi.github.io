@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "Skills"
-collection: hobby
+collection: portfolio
 author_profile: true
-permalink: /hobby/ 
+permalink: /skill/ 
 ---
 
 <!-- Skills -->

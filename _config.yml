@@ -184,7 +184,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  hobby:
+  skills:
     output: true
     permalink: /:collection/:path/
   services:
@@ -246,10 +246,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _hobby
+  # _skills
   - scope:
       path: ""
-      type: hobby
+      type: skills
     values:
       layout: single
       author_profile: true
