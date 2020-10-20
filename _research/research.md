@@ -6,13 +6,11 @@ author_profile: true
 collection: portfolio
 ---
 
-<hr color="000000" />
+<!-- <hr color="000000"/> -->
 
 {% include base_path %}
 
 
-<!-- # <i>Individual Project</i> -->
----
 ## <b>Estimation of Tissue Oxygen Saturation based on Image to Image Translation</b>
 * 2018, _The Hamlyn Centre, Imperial College London, London, UK_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
