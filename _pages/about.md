@@ -25,10 +25,6 @@ Biography
 Qingbiao Li is a PhD student at ProrokLab, the Digital Technology Group (DTG) at the University of Cambridge under the supervision of [Dr Amanda Prorok](https://www.proroklab.org/). 
 His research interests include:
 * Robot learning, Multi-robot Path Planning, Graph Neural Networks (GNNs), Imitation Learning and Reinforcement Learning.
-<!-- * During his PhD, he focus on developing a <b>communciation-aware decentralised multi-agent path planning</b> framework, where <b>Graph Neural Networks (GNNs)</b> are under active investigation to build communication channels for multi-agent systems so that agents can learn how to communicate between each other explicitly. 
-His research can be applied in mobility-on-demand, automated warehouse and smart cities.  -->
-<!-- * During his PhD, he focus on **communication-aware motion planning** for multi-robot coordination. 
-* He is effectively investigating **Graph Neural Networks (GNN)** to build communication channels for multi-agent and multi-robot systems so that agents/robots can learn how to communicate between each other explicitly.  -->
 
 During his PhD, he focus on **communication-aware motion planning** for multi-robot coordination. 
 He is effectively investigating **Graph Neural Networks (GNN)** to build communication channels for multi-agent and multi-robot systems so that agents/robots can learn how to communicate between each other explicitly. 
@@ -39,6 +35,12 @@ Prior to joining Cambridge,  he joined [Hamlyn Centre](https://www.imperial.ac.u
 He has published papers in medical imaging area (IJCARS) and robotics field (IEEE IROS, IEEE Humanoids and AAMAS). He has served as a reviewer for IEEE IROS, IEEE ICRA, IEEE RA-L, IEEE T-RO and AAMAS.
 
 Details of his CV can be found at [PDF](./files/CV_QingbiaoLi.pdf).
+
+
+<!-- * During his PhD, he focus on developing a <b>communciation-aware decentralised multi-agent path planning</b> framework, where <b>Graph Neural Networks (GNNs)</b> are under active investigation to build communication channels for multi-agent systems so that agents can learn how to communicate between each other explicitly. 
+His research can be applied in mobility-on-demand, automated warehouse and smart cities.  -->
+<!-- * During his PhD, he focus on **communication-aware motion planning** for multi-robot coordination. 
+* He is effectively investigating **Graph Neural Networks (GNN)** to build communication channels for multi-agent and multi-robot systems so that agents/robots can learn how to communicate between each other explicitly.  -->
 
 <hr color="#FFFFFF" />
 
