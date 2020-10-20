@@ -175,10 +175,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/  
-  publications_journal:
+  journal:
     output: true
     permalink: /:collection/:path/
-  publications_conference:
+  conference:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -234,19 +234,19 @@ defaults:
       author_profile: true
       share: true
       comments: true    
-  # _publications_journal
+  # _journal
   - scope:
       path: ""
-      type: publications
+      type: journal
     values:
       layout: single
       author_profile: true
       share: true
       comments: true   
-  # _publications_conference
+  # _conference
   - scope:
       path: ""
-      type: publications
+      type: conference
     values:
       layout: single
       author_profile: true

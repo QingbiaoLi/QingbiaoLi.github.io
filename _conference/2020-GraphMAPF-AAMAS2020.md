@@ -1,6 +1,6 @@
 ---
 title: "Graph Neural Networks for Decentralized Path Planning"
-collection: publications_conference
+collection: conference
 permalink: /publications/2020-GraphMAPF-AAMAS2020
 excerpt: ''
 date: 2020-05-09

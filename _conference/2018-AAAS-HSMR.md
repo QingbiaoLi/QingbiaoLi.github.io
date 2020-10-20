@@ -1,6 +1,6 @@
 ---
 title: "Abdominal Aortic Aneurysm Segmentation with a Small Number of Training Subjects"
-collection: publications_conference
+collection: conference
 permalink: /publications/2018-AAAS-HSMR
 excerpt: ''
 date: 2018-4-19

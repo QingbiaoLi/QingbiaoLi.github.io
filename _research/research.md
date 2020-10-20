@@ -25,7 +25,7 @@ collection: portfolio
         <li>Dual-input network, called Dual2StO2, was developed to investigate the optimal setting of the fibre bundle to capture meaningful and informative images from HSI camera. </li>
       </ul>
     </li>
-    <li>[<u><a href="http://qingbiaoli.github.io/files/HSMR2018.pdf">publication1</a></u>],[<u><a href="https://link.springer.com/content/pdf/10.1007%2Fs11548-019-01940-2.pdf">publication2</a></u>]</li>
+    <li>[<u><a href="http://qingbiaoli.github.io/files/HSMR2018.pdf">RGB2StO2.pdf</a></u>],[<u><a href="https://link.springer.com/content/pdf/10.1007%2Fs11548-019-01940-2.pdf">Dual2StO2.pdf</a></u>]</li>
   </ul>
   <br/>
   <img src='/images/customized/Dual2StO2.png' />
@@ -68,7 +68,7 @@ collection: portfolio
         <li>Theoretical proof and simulation validation of online parameter estimation to obtain robust control of bipedal walking.</li>
       </ul>
     </li>
-    <li>[<u><a href="http://qingbiaoli.github.io/files/humanoid2017.pdf">publication1</a></u>]</li>
+    <li>[<u><a href="http://qingbiaoli.github.io/files/humanoid2017.pdf">Humanoid2017.pdf</a></u>]</li>
   </ul>
   <br/>
     <img src='/images/customized/Humanoid2017_demo.png' />
