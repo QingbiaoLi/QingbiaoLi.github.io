@@ -184,7 +184,7 @@ collection: portfolio
 
 
 # <i>Collaborative Work</i>
----
+<!-- --- -->
 ## <b>Vision-based Navigation in Flexible Endoscopy</b>
 * 2017, _The Hamlyn Centre, Imperial College London_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
