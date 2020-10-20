@@ -21,8 +21,8 @@ collection: portfolio
 <div class="dspcont" style='display:none;'>
   <fieldset>
   <ul>
-    <li><b>Motivation</b>:Investigate a non-invasive intra-operative measurement of tissue oxygen saturation based on Hyperspectral Imaging.</li>
-    <li><b>Supervisor</b>:Prof.Daniel S Elson </li>
+    <li><b>Motivation</b>: Investigate a non-invasive intra-operative measurement of tissue oxygen saturation based on Hyperspectral Imaging.</li>
+    <li><b>Supervisor</b>: Prof.Daniel S Elson </li>
     <li><b>Abstract</b>: 
       <ul>
         <li>The conditional Generative Adversarial Networks (cGAN) was used to develop pixel-level image-to-image translation approach, called RGB2StO2, to estimate tissue oxygen saturation (StO2) from RGB images directly. </li>
@@ -45,8 +45,8 @@ collection: portfolio
 <div class="dspcont" style='display:none;'>
   <fieldset>
   <ul>
-    <li><b>Supervisor</b>:Dr. Qiuguo Zhu </li>
-    <li><b>Duties included<</b>: 
+    <li><b>Supervisor</b>: Dr. Qiuguo Zhu </li>
+    <li><b>Duties included</b>: 
       <ul>
         <li>Robust control of bipedal walking for legged robot. </li>
         <li>Carried out physical experiment. </li>
@@ -59,21 +59,21 @@ collection: portfolio
 </div>
 <hr color="#FFFFFF" />
 
-
-## <b>Academic research internship in humanoid robot</b>
+## <b>Research Assistant in Bipedal Walking of Humanoid Robot</b>
 * 2017, _SLMC, School of Informatics, The University of Edinburgh_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
   <fieldset>
   <ul>
-    <li><b>Supervisor</b>:Dr. Zhibin Li </li>
-    <li><b>Abstract</b>: 
+    <li><b>Supervisor</b>: Dr. Zhibin Li </li>
+    <li><b>Duties included</b>: 
       <ul>
         <li>Research model-free control of bipedal walking for humanoid robotics. </li>
-        <li>Theoretical proof and simulation validation of online parameter estimation to obtain robust control of bipedal walking. </li>
+        <li>Theoretical proof and simulation validation of online parameter estimation to obtain robust control of bipedal walking.</li>
       </ul>
     </li>
-    <li>[<u><a href="http://qingbiaoli.github.io/files/humanoid2017.pdf">publication1</a></u>]
+    <li>[<u><a href="http://qingbiaoli.github.io/files/humanoid2017.pdf">publication1</a></u>]</li>
+  </ul>
   <br/>
   <img src='/images/customized/Humanoid2017_demo.png' />
   <img src='/images/customized/Humanoid_case2.gif' />
@@ -81,13 +81,34 @@ collection: portfolio
 </div>
 <hr color="#FFFFFF" />
 
+<!-- ## <b>Academic research internship in humanoid robot</b>
+* 2017, _SLMC, School of Informatics, The University of Edinburgh_
+<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
+<div class="dspcont" style='display:none;'>
+  <fieldset>
+  <ul>
+    <li><b>Supervisor</b>: Dr. Zhibin Li </li>
+    <li><b>Abstract</b>: 
+      <ul>
+        <li>Research model-free control of bipedal walking for humanoid robotics. </li>
+        <li>Theoretical proof and simulation validation of online parameter estimation to obtain robust control of bipedal walking. </li>
+      </ul>
+    </li>
+    <li>[<u><a href="http://qingbiaoli.github.io/files/humanoid2017.pdf">publication1</a></u>]</li>
+  <br/>
+  <img src='/images/customized/Humanoid2017_demo.png' />
+  <img src='/images/customized/Humanoid_case2.gif' />
+  </fieldset>
+</div>
+<hr color="#FFFFFF" /> -->
+
 ## <b>Missile impact on snow (MEng thesis with distinction)</b>
 * 2015, _The University of Edinburgh_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
   <fieldset>
   <ul>
-    <li><b>Supervisor</b>:Dr Filipe Teixeira-Dias </li>
+    <li><b>Supervisor</b>: Dr Filipe Teixeira-Dias </li>
     <li><b>Project description</b>: 
       <ul>
         <li>This study aimed to optimize the design of the impactor developed by British Antarctic survey for long-term tracking on the motion of the glaciers. </li>
@@ -111,7 +132,7 @@ collection: portfolio
 <div class="dspcont" style='display:none;'>
   <fieldset>
   <ul>
-    <li><b>Supervisor</b>:Dipl.-Ing.Thomas Lepper  </li>
+    <li><b>Supervisor</b>: Dipl.-Ing.Thomas Lepper </li>
     <li><b>Duties included</b>: 
       <ul>
         <li>Mechanism design for industrial robot for industrial-level milling process, includes CAD modelling transmission device and robot arm. </li>
