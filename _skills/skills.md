@@ -32,10 +32,12 @@ Language Proficiency
 
 Hobby
 ======
-I like:
+<!-- I like:
 * Swimming
 * Table tennis
 * Movie
 * Photography
 * Chinese bamboo flute
+ -->
 
+I like swimming, table tennis and work out in the gym. I also enjoy movie, photography and playing my chinese bamboo flute.
