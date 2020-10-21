@@ -85,6 +85,17 @@ My research can be applied in mobility-on-demand, automated warehouse and smart 
 
 </div>
 
+<hr color="#FFFFFF" />
+
+Research Interest
+======
+<ul>
+<li>Robot Learning</li>
+<li>Multi-robot Path Planning</li>
+<li>Graph Neural Networks (GNNs)</li>
+<li>Imitation Learning </li>
+<li>Reinforcement Learning</li>
+</ul>
 
 <hr color="#FFFFFF" />
 
