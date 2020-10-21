@@ -23,10 +23,9 @@ permalink: /skill/
 
 Language Proficiency
 ======
-* English (Fluent) 
-* German (Basic, Passed A2) 
-* Chinese:
-  * Mandarin (Native), Cantonese (Intermediate) and Hakka Dialect (Native)
+* English:  Fluent 
+* German:  Basic, Passed A2
+* Chinese: Mandarin (Native), Cantonese (Intermediate) and Hakka Dialect (Native)
 
 <hr>
 
