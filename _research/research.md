@@ -105,7 +105,7 @@ collection: portfolio
 
 
 ## <b>Industrial Robotics Researcher Assistant (Funded by Erasmus+)</b>
-* 2015, _TThe Institute of Production Engineering and Machine Tools (IFW), Leibniz University of Hanover_
+* 2015, _The Institute of Production Engineering and Machine Tools (IFW), Leibniz University of Hanover_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
   <fieldset>
