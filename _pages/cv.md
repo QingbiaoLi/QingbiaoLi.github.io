@@ -87,13 +87,17 @@ redirect_from:
 Honors and Awards
 ======
 
+<h2> <a href="https://www.cst.cam.ac.uk/wiseman-prize",style="color:#5dbcd2;"> Wiseman Award </a></h2>
+* 2020, Department of Computer Science and Technology, University of Cambridge
+
 <!-- ## <i>PhD Studentship</i>, 2018-Present -->
 <h2>PhD Studentship</h2>
-* 2018-Present, University of Cambridge
+* 2018-Present, Department of Computer Science and Technology, University of Cambridge
 
 <!-- ## <i>Subsystem Excellence Award at Hyperloop Pod Competition</i>, 2016 -->
 <h2>Subsystem Excellence Award at Hyperloop Pod Competition</h2>
-* 2016, awarded by Space Exploration Technologies Corporation [Links](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-35384238).
+* 2016, awarded by Space Exploration Technologies Corporation <a href="http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-35384238"
+ style="color:#5dbcd2;">Links</a>.
   <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Details</a></h3>
   <div class="dspcont" style='display:none;'>
     <ul>
