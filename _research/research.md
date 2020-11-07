@@ -35,7 +35,7 @@ collection: portfolio
 
 
 
-## <b>Academic research internship in legged robot</b>
+## <b>Academic Research Internship in Legged Robot</b>
 * Summer 2017, _Intelligence Robot Lab, Zhejiang University_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
@@ -78,7 +78,7 @@ collection: portfolio
 <hr color="#FFFFFF" />
 
 
-## <b>Missile impact on snow (MEng thesis with distinction)</b>
+## <b>Missile Impact on Snow (MEng Thesis with Distinction)</b>
 * 2015, _The University of Edinburgh_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
@@ -104,7 +104,7 @@ collection: portfolio
 <hr color="#FFFFFF" />
 
 
-## <b>Industrial Robotics Researcher Assistant (Funded by Erasmus+)</b>
+## <b>Researcher Assistant in Industrial Robotics (Funded by Erasmus+)</b>
 * 2015, _The Institute of Production Engineering and Machine Tools (IFW), Leibniz University of Hanover_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
