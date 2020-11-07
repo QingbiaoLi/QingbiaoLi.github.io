@@ -16,6 +16,7 @@ collection: portfolio
 <div class="dspcont" style='display:none;'>
   <fieldset>
   <ul>
+    <li><b>Supervisor</b>: Dr.Amanda Prorok</li>
     <li><b>Abstract</b>: 
       <ul>
         <li>We propose a combined architecture, where we train a convolutional neural network (CNN) that extracts adequate features from local observations, and a graph neural network (GNN) to communicate these features among robots with the ultimate goal of learning a decentralized sequential action policy that yields efficient path plans for all robots.</li>
@@ -24,7 +25,6 @@ collection: portfolio
     </li>
     <li>[<u><a href="http://ifaamas.org/Proceedings/aamas2020/pdfs/p1901.pdf">AAMAS2020.pdf</a></u>],[<u><a href="https://arxiv.org/abs/1912.06095">IROS2020.pdf</a></u>]</li>
   </ul>
-  <br/>
   <a href="https://youtu.be/AGDk2RozpMQ
   " target="_blank"><img src="/images/customized/GraphMAPF2020.png" 
   alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
