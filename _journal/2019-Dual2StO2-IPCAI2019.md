@@ -1,5 +1,5 @@
 ---
-title: "Estimation of tissue oxygen saturation from RGB images and sparse hyperspectral signals based on conditional generative adversarial network"
+title: "Estimation of Tissue Oxygen Saturation from RGB Images and Sparse Hyperspectral Signals based on Conditional Generative Adversarial Network"
 collection: journal
 permalink: /publications/2019-Dual2StO2-IPCAI2019
 excerpt: ""
