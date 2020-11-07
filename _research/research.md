@@ -126,6 +126,28 @@ collection: portfolio
 
 # <i>Collaborative Work</i>
 <!-- --- -->
+## <b>Real-time Surgical Environment Enhancement for Robot-Assisted Minimally Invasive Surgery</b>
+<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
+<div class="dspcont" style='display:none;'>
+  <fieldset>
+  <ul>
+    <li><b>Project description</b>: 
+      <ul>
+        <li>We propose a  multi-scale Generative Adversarial Network (GAN)-based video super-resolution method to construct a framework for automatic zooming ratio adjustment. </li>
+        <li>It can provide automatic real-time zooming for high-quality visualization of the Region Of Interest (ROI) during the surgical operation. </li>
+        <li>The framework is validated with the JIGSAW dataset and Hamlyn Centre Laparoscopic/Endoscopic Video Datasets, with results demonstrating its practicability. </li>
+      </ul>
+    </li>
+    <li>[<u><a href="http://qingbiaoli.github.io/files/humanoid2017.pdf">ICRA2021.pdf</a></u>]</li>
+  </ul>
+  <br/>
+ <!--  <img src='/images/customized/ORB_SLAM2_demo.gif' width="560" height="315"/>
+  <img src='/images/customized/surface_reconsuction.gif' width="560" height="315"/> -->
+  </fieldset>
+</div>
+<hr color="#FFFFFF" />
+
+
 ## <b>Vision-based Navigation in Flexible Endoscopy</b>
 * 2017, _The Hamlyn Centre, Imperial College London_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>

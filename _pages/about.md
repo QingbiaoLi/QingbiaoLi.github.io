@@ -95,6 +95,7 @@ Research Interest
 <li>Graph Neural Networks (GNNs)</li>
 <li>Imitation Learning </li>
 <li>Reinforcement Learning</li>
+<li>Computer Vision (Medical Imaging) </li>
 </ul>
 
 <hr color="#FFFFFF" />
