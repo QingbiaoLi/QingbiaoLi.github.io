@@ -87,7 +87,7 @@ redirect_from:
 Honors and Awards
 ======
 
-<h2> <a href="https://www.cst.cam.ac.uk/wiseman-prize" style="color:#5dbcd2;"> Wiseman Award </a></h2>
+<h2> <a href="https://www.cst.cam.ac.uk/wiseman-prize" style="color:#5dbcd2;"> Wiseman Prize </a></h2>
 * 2020, Department of Computer Science and Technology, University of Cambridge
 
 <!-- ## <i>PhD Studentship</i>, 2018-Present -->
