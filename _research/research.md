@@ -163,7 +163,7 @@ collection: portfolio
     <li>[<u><a href="http://qingbiaoli.github.io/files/humanoid2017.pdf">ICRA2021.pdf</a></u>]</li>
   </ul>
   <br/>
-  <img src='/images/customized/SurgicalGAN2021.png' width="720" height="310"/>
+  <img src='/images/customized/SurgicalGAN2021.png' width="auto" height="auto"/>
   <ul>
   <li>Experiments of our pipeline in JIGASW dataset, demonstrating different phases of testing our pipeline in the suturing (a) and knot tying (b) tasks, while (c) summaries the correspondence of the predicted operations and the upscaling factors. </li>
   </ul>
