@@ -43,6 +43,6 @@ Hobby
 
 * I also enjoy sci-fi movie (such as Arrival, Her, Interstellar), and Japanese anime (such as Your Lie in April, and Digimon Adventure).
 
-* In my space-time, I take landscape photography and portrait photography for my friends during traveling.  
+* In my space-time, I take landscape photography. I also take portrait photography for my friends during traveling.  
 
 * I love light music, country music, and songs from musical. I enjoy playing my Chinese bamboo flute.
