@@ -79,7 +79,7 @@ My research can be applied to mobility-on-demand systems, automated warehouses, 
 
 
 
-
+</div>
 
 <!-- My research interests include:</p>
 <ul>
@@ -101,7 +101,7 @@ My research can be applied in mobility-on-demand, automated warehouse and smart 
 <p><b>I am open to collaboration opportunities</b> (anytime & anywhere) and <b>research internships</b> (open for Summer 2021). Feel free to contact by Email (ql295[AT]cam.ac.uk). Details of my CV can be found at <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
  --> 
 
-</div>
+
 
 <hr color="#FFFFFF" />
 
