@@ -38,7 +38,7 @@ He has published papers in medical imaging area (IJCARS) and robotics field (IEE
 
 Details of his CV can be found at [PDF](./files/CV_QingbiaoLi.pdf). -->
 
-<!-- <div style="text-align: justify"> 
+<div style="text-align: justify"> 
 
 <p>Qingbiao Li is a PhD student at ProrokLab, the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/"
  style="color:#5dbcd2;">Dr Amanda Prorok</a>. 
@@ -59,10 +59,10 @@ His research can be applied in mobility-on-demand, automated warehouse and smart
 
 
 </div>
- -->
+
 
 <!-- --------------------------------First Person --------------------------- -->
-
+<!-- 
 <div style="text-align: justify"> 
 
 <p>I am a PhD student at ProrokLab in the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/"
@@ -77,7 +77,7 @@ My research can be applied to mobility-on-demand systems, automated warehouses, 
 <p><b>I am open to collaboration opportunities</b> and <b>research internships (for Summer 2021)</b>. Feel free to contact by Email (ql295[AT]cam.ac.uk). Details of my CV can be found in <a href="../files/CV_QingbiaoLi_long.pdf" style="color:#5dbcd2;">PDF</a>.</p>
 
 
-
+ -->
 
 <!-- </div> -->
 
