@@ -39,4 +39,10 @@ Hobby
 * Chinese bamboo flute
  -->
 
-I like swimming, table tennis and work out in the gym. I also enjoy movie, photography and playing my chinese bamboo flute.
+* I like swimming. I have played table tennis since primary school. I enjoy going to the gym, where I am interested in strength training, particularly deadlifting and explosive training. 
+
+* I also enjoy sci-fi movie (such as Arrival, Her, Interstellar), and Japanese anime (such as Your Lie in April, and Digimon Adventure).
+
+* In my space-time, I take landscape photography and portrait photography for my friends during traveling.  
+
+* I love light music, country music, and songs from musical. I enjoy playing my Chinese bamboo flute.
