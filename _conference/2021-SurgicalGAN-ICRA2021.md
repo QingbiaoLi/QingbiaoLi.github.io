@@ -5,7 +5,7 @@ permalink: /publications/2021-SurgicalGAN-ICRA2021
 excerpt: ""
 date: 2020-10-25
 venue: 'IEEE International Conference on Robotics and Automation (ICRA, Under Review)'
-paperurl: 'https://arxiv.org/abs/1912.06095'
+paperurl: 'https://arxiv.org/pdf/2011.04003.pdf'
 citation: 'Ruoxi Wang, Dandan Zhang, Qingbiao Li, Benny Lo. “Real-time Surgical Environment Enhancement for Robot-Assisted Minimally Invasive Surgery Based on Super-Resolution,” IEEE International Conference on Robotics and Automation (Under Review), 2021. arXiv preprint arXiv:1912.06095.'
 ---
 <!-- <a href="https://drive.google.com/file/d/1mhYtMVwwkmpTKEkw11CdpiXGaP1j87U0/view?usp=sharing

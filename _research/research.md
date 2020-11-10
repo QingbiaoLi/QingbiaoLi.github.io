@@ -160,7 +160,7 @@ collection: portfolio
         <li>The framework is validated with the JIGSAW dataset and Hamlyn Centre Laparoscopic/Endoscopic Video Datasets, with results demonstrating its practicability. </li>
       </ul>
     </li>
-    <li>[<u><a href="http://qingbiaoli.github.io/files/humanoid2017.pdf">ICRA2021.pdf</a></u>]</li>
+    <li>[<u><a href="https://arxiv.org/pdf/2011.04003.pdf">ICRA2021.pdf</a></u>]</li>
   </ul>
   <br/>
   <img src='/images/customized/SurgicalGAN2021.png' width="auto" height="auto"/>
