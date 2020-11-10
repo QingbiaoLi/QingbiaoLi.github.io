@@ -38,7 +38,7 @@ He has published papers in medical imaging area (IJCARS) and robotics field (IEE
 
 Details of his CV can be found at [PDF](./files/CV_QingbiaoLi.pdf). -->
 
-<div style="text-align: justify"> 
+<!-- <div style="text-align: justify"> 
 
 <p>Qingbiao Li is a PhD student at ProrokLab, the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/"
  style="color:#5dbcd2;">Dr Amanda Prorok</a>. 
@@ -59,25 +59,25 @@ His research can be applied in mobility-on-demand, automated warehouse and smart
 
 
 </div>
-
+ -->
 
 <!-- --------------------------------First Person --------------------------- -->
-<!-- 
+
 <div style="text-align: justify"> 
 
 <p>I am a PhD student at ProrokLab in the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/"
  style="color:#5dbcd2;">Dr Amanda Prorok</a>. During my PhD, I focus on <b>communication-aware motion planning</b> for multi-robot coordination. I am investigating <b>Graph Neural Networks (GNN)</b> to build communication channels for multi-agent and multi-robot systems so that they can learn how to communicate between each other explicitly. 
-My research can be applied to mobility-on-demand systems, automated warehouses, and smart cities.</p> 
+ My research can be applied to mobility-on-demand systems, automated warehouses, and smart cities.</p> 
 
 
-<p>Prior to joining Cambridge, I was working in <a href="https://www.imperial.ac.uk/hamlyn-centre/" style="color:#5dbcd2;">the Hamlyn Centre</a> at Imperial College London, founded by <a href="https://ieeexplore.ieee.org/author/37276270800" style="color:#5dbcd2;">Prof Guang-Zhong Yang</a> and <a href="https://www.imperial.ac.uk/people/a.darzi" style="color:#5dbcd2;">the Lord Ara Darzi</a>,  in the field of medical robotics and healthcare to earn my MRes in Medical Robotics and Image-Guided Intervention. I was supervised by <a href="https://www.imperial.ac.uk/people/daniel.elson" style="color:#5dbcd2;">Prof Daniel Elson</a> for an eight-month research project about oxygen saturation (StO2) estimation, and graduated with a distinction. I also hold an MEng degree in Mechanical Engineering from the University of Edinburgh.
+<p>Prior to joining Cambridge, I was working in <a href="https://www.imperial.ac.uk/hamlyn-centre/" style="color:#5dbcd2;">the Hamlyn Centre</a> at Imperial College London, founded by <a href="https://ieeexplore.ieee.org/author/37276270800" style="color:#5dbcd2;">Prof Guang-Zhong Yang</a> and <a href="https://www.imperial.ac.uk/people/a.darzi" style="color:#5dbcd2;">the Lord Ara Darzi</a>,  in the field of medical robotics and healthcare to earn my MRes in Medical Robotics and Image-Guided Intervention. I was supervised by <a href="https://www.imperial.ac.uk/people/daniel.elson" style="color:#5dbcd2;">Prof Daniel Elson</a> for an eight-month research project about oxygen saturation (StO2) estimation, and graduated with a distinction. I also hold an MEng degree in Mechanical Engineering from the University of Edinburgh.</p> 
 
-<p>I have published papers in the medical imaging area (IJCARS) and the robotics field (IEEE IROS, IEEE Humanoids, and AAMAS). I have served as a reviewer for IEEE IROS, IEEE ICRA, IEEE RA-L, IEEE T-RO, and AAMAS.
+<p>I have published papers in the medical imaging area (IJCARS) and the robotics field (IEEE IROS, IEEE Humanoids, and AAMAS). I have served as a reviewer for IEEE IROS, IEEE ICRA, IEEE RA-L, IEEE T-RO, and AAMAS.</p> 
 
 <p><b>I am open to collaboration opportunities</b> and <b>research internships (for Summer 2021)</b>. Feel free to contact by Email (ql295[AT]cam.ac.uk). Details of my CV can be found in <a href="../files/CV_QingbiaoLi_long.pdf" style="color:#5dbcd2;">PDF</a>.</p>
 
+</div>
 
- -->
 
 <!-- </div> -->
 
