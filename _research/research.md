@@ -10,8 +10,10 @@ collection: portfolio
 
 {% include base_path %}
 
+# <i>Work Experience</i>
+
 ## <b>Research Intern in Project Silica</b>
-* 2021, _, Microsoft Research Cambridge, Cambridge, UK_
+* 2021, _Microsoft Research Cambridge, Cambridge, UK_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
   <fieldset>
