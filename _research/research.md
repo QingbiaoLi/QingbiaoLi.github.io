@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Work Experience"
+title: "Research Experience"
 permalink: /research/
 author_profile: true
 collection: portfolio
