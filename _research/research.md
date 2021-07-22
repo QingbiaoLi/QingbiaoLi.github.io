@@ -10,6 +10,8 @@ collection: portfolio
 
 {% include base_path %}
 
+<hr color="#FFFFFF" />
+
 # <i>Work Experience</i>
 
 ## <b>Research Intern in Project Silica</b>
