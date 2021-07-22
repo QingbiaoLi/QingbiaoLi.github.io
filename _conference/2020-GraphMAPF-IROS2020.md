@@ -6,7 +6,7 @@ excerpt: ""
 date: 2020-10-25
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) '
 paperurl: 'https://arxiv.org/abs/1912.06095'
-citation: 'Li, Q., Gama, F., Ribeiro, A. and Prorok, A., 2019. Graph Neural Networks for Decentralized Multi-robot Path Planning. arXiv preprint arXiv:1912.06095.'
+citation: 'Qingbiao Li, Fernando Gama, Alejandro Ribeiro, Amanda Prorok. “Graph Neural Networks for Decentralized Multi-robot Path Planning,” IEEE/RSJ International Conference on Intelligent Robots and Systems (CCF-C, ERA-A, Qualis-A1), 2020.'
 ---
 <a href="https://drive.google.com/file/d/1mhYtMVwwkmpTKEkw11CdpiXGaP1j87U0/view?usp=sharing
 " target="_blank"><img src="/images/customized/GraphMAPF2020.png" 

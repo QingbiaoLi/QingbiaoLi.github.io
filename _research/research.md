@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Individual Project"
+title: "Work Experience"
 permalink: /research/
 author_profile: true
 collection: portfolio
@@ -9,6 +9,27 @@ collection: portfolio
 <!-- <hr color="000000"/> -->
 
 {% include base_path %}
+
+## <b>Research Intern in Project Silica</b>
+* 2021, _, Microsoft Research Cambridge, Cambridge, UK_
+<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
+<div class="dspcont" style='display:none;'>
+  <fieldset>
+  <ul>
+    <li><b>Supervisor</b>: Dr Ioan Stefanovici & Dr Katja Hofmann </li>
+    <li><b>Duties included</b>: 
+      <ul>
+        <li>I am exploring explainable RL-based approaches to scheduling in the Silica glass library, towards a scheduler for production deployment. </li>
+      </ul>
+    </li>
+  </ul>
+  <br/>
+  </fieldset>
+</div>
+<hr color="#FFFFFF" />
+
+
+# <i>Individual Project</i>
 
 ## <b>Graph Neural Networks for Decentralized Path Planning</b>
 * 2020, _Prorok Lab, University of Cambridge, Cambridge, UK_
