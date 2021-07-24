@@ -74,7 +74,7 @@ His research can be applied in mobility-on-demand, automated warehouse and smart
 
 <p>I have published papers in the medical imaging area (IJCARS) and the robotics field (IEEE IROS, IEEE Humanoids, and AAMAS). I have served as a reviewer for IEEE IROS, IEEE ICRA, IEEE RA-L, IEEE T-RO, and AAMAS.</p> 
 
-<p><b>I am open to collaboration opportunities</b>. Feel free to contact by Email (ql295[AT]cam.ac.uk). Details of my CV can be found in <a href="../files/CV_QingbiaoLi_long.pdf" style="color:#5dbcd2;">PDF</a>.</p>
+<p><b>I am open to collaboration opportunities</b>. Feel free to contact by Email (ql295[AT]cam.ac.uk). Details of my CV can be found in <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
 
 
 <p><b>News:</b> From July 2021 to Oct 2021, I am working on <a href="https://www.microsoft.com/en-us/research/project/project-silica/" style="color:#5dbcd2;">Project Silica</a> during my internship at Microsoft Research Cambridge. I am exploring explainable RL-based approaches to scheduling in the Silica glass library, towards a scheduler for production deployment.</p>
