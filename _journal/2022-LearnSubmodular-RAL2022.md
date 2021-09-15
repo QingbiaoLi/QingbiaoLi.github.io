@@ -3,7 +3,7 @@ title: "Graph Neural Networks for Decentralized Multi-Robot Submodular Action Se
 collection: journal
 permalink: /publications/2022-LearnSubmodular-RAL2022.md
 excerpt: ''
-date: 2020-10-25
+date: 2022-09-15
 venue: 'IEEE Robotics and Automation Letters (RA-L)'
 paperurl: 'https://arxiv.org/pdf/2105.08601.pdf'
 citation: 'Lifeng Zhou, Vishnu D Sharma, Li, Qingbiao, Amanda Prorok, Alejandro Ribeiro, Vijay Kumar. “Graph Neural Networks for Decentralized Multi-Robot Submodular Action Selection,” IEEE Robotics and Automation Letters (JCR Q2, IF 3.74), Under Review'
