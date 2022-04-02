@@ -25,9 +25,11 @@ Vision
 
 <p> I believe that technology should contribute to humanity toward a healthier, safer, and higher quality of life.  </p> 
 
-<p> I am an enthusiast and believer in the new revolution for robotics (Artificial General Intelligence for Robotics). I believe that the 'real2sim (meta-verse) and sim2real' can bring the community (machine learning, computer vision and graphics, and robotics) towards the era of technology beyond first-principle-based methods and control theory. I believe robotics can be one of the solutions for population aging via autonomous human-robot collaboration. Yet, there is a huge research gap towards revolution. </p> 
+<p> I am an enthusiast and believer in the new revolution for robotics (Artificial General Intelligence for Robotics). I believe that the 'real2sim (meta-verse) and sim2real' can bring the community (machine learning, computer vision and graphics, and robotics) towards the era of technology beyond first-principle-based methods and control theory. Yet, there is a huge research gap towards this revolution. I believe robotics can be one of the solutions for population aging via autonomous system and human-robot collaboration. </p> 
 
 <p> I am a part-time researcher in AI for Health and Science (medical imaging and intro-operative imaging for surgical robotics).  </p> 
+
+<!-- <p> Thoughout my research jounery towards this revolution so far, I have been inspired by my superivisor (<a href="https://www.proroklab.org/" style="color:#5dbcd2;">Prof Amanda Prorok</a>),  Prof Guang-zhong Yang -->
 
 <hr color="#FFFFFF" />
 </div>
@@ -35,7 +37,7 @@ Vision
 Biography
 ======
 
-<p>I am currently a PhD student at ProrokLab in the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/" style="color:#5dbcd2;">Dr Amanda Prorok</a>. During my PhD, I focus on <b>communication-aware motion planning</b> for multi-robot coordination. I am investigating <b>Graph Neural Networks (GNN)</b> to build communication channels for multi-agent and multi-robot systems so that they can learn how to communicate between each other explicitly. 
+<p>I am currently a PhD student at ProrokLab in the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/" style="color:#5dbcd2;">Prof Amanda Prorok</a>. During my PhD, I focus on <b>communication-aware motion planning</b> for multi-robot coordination. I am investigating <b>Graph Neural Networks (GNN)</b> to build communication channels for multi-agent and multi-robot systems so that they can learn how to communicate between each other explicitly. 
  My research can be applied to mobility-on-demand systems, automated warehouses, and smart cities.</p> 
 
 <div style="text-align: justify"> 
@@ -88,6 +90,8 @@ News
 <p><b>2021 News:</b> One paper (MAGAT) got aceepted in <a href="https://arxiv.org/pdf/2011.13219.pdf" style="color:#5dbcd2;">RA-L 2021</a>.</p>
 
 <p><b>2020 News:</b> Invited talk about <a href="https://drive.google.com/file/d/1-3objk27WuodPRhT8_wtOQyjHynNUGsq/view" style="color:#5dbcd2;">'From Graph Neural Networks to Decentralized Multi-Robot Path Planning' </a> at Zhejiang University.</p>
+
+<p><b>2020 News:</b> One paper got aceepted in <a href="https://arxiv.org/pdf/2011.04003" style="color:#5dbcd2;">ICRA 2021</a>.</p>
 
 <p><b>2020 News:</b> One paper (G2RL) got aceepted in <a href="https://arxiv.org/pdf/2005.05420.pdf" style="color:#5dbcd2;">RA-L 2020</a>.</p>
 
