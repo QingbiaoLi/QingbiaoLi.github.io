@@ -20,8 +20,7 @@ redirect_from:
 <hr color="#FFFFFF" />
 
 
-Biography
-======
+
 
 <!-- --------------------------------Third Person --------------------------- -->
 <!-- Qingbiao Li is a PhD student at ProrokLab, the Digital Technology Group (DTG) at the University of Cambridge under the supervision of [Dr Amanda Prorok](https://www.proroklab.org/). 
@@ -65,14 +64,18 @@ His research can be applied in mobility-on-demand, automated warehouse and smart
 
 <div style="text-align: justify"> 
 
-<p> <b>Vision</b>: I believe that technology should contribute to humanity toward a healthier, safer, and higher quality of life.  
+Vision
+======
+<p> I believe that technology should contribute to humanity toward a healthier, safer, and higher quality of life.  </p> 
 
-I am an enthusiast and believer in the new revolution for robotics (Artificial General Intelligence for Robotics). I believe that the 'real2sim (meta-verse) and sim2real' can bring the community (machine learning, computer vision and graphics, and robotics) towards the era of technology beyond first-principle-based methods and control theory. I believe robotics can be one of the solutions for population aging via autonomous human-robot collaboration. Yet, there is a huge research gap towards revolution.
+<p> I am an enthusiast and believer in the new revolution for robotics (Artificial General Intelligence for Robotics). I believe that the 'real2sim (meta-verse) and sim2real' can bring the community (machine learning, computer vision and graphics, and robotics) towards the era of technology beyond first-principle-based methods and control theory. I believe robotics can be one of the solutions for population aging via autonomous human-robot collaboration. Yet, there is a huge research gap towards revolution. </p> 
 
-I am a part-time researcher in AI for Health and Science (medical imaging and intro-operative imaging for surgical robotics).  </p> 
+<p> I am a part-time researcher in AI for Health and Science (medical imaging and intro-operative imaging for surgical robotics).  </p> 
 
 <hr color="#FFFFFF" />
 
+Biography
+======
 <p>I am currently a PhD student at ProrokLab in the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/"style="color:#5dbcd2;">Dr Amanda Prorok</a>. During my PhD, I focus on <b>communication-aware motion planning</b> for multi-robot coordination. I am investigating <b>Graph Neural Networks (GNN)</b> to build communication channels for multi-agent and multi-robot systems so that they can learn how to communicate between each other explicitly. 
  My research can be applied to mobility-on-demand systems, automated warehouses, and smart cities.</p> 
 
@@ -83,13 +86,15 @@ I am a part-time researcher in AI for Health and Science (medical imaging and in
 <p><b>I am open to collaboration opportunities</b>. Feel free to contact by Email (ql295[AT]cam.ac.uk). Details of my CV can be found in <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
 
 
-<p><b>News:</b> One paper got aceepted in  <a href="https://arxiv.org/pdf/2012.14906.pdf" style="color:#5dbcd2;">TSP 2022</a>.</p>
+News
+======
+<p><b>News:</b> One paper got aceepted in <a href="https://arxiv.org/pdf/2012.14906.pdf" style="color:#5dbcd2;">TSP 2022</a>.</p>
 
-<p><b>News:</b> One paper got aceepted in  <a href="https://arxiv.org/pdf/2110.05291.pdf" style="color:#5dbcd2;">ICLR 2022</a>.</p>
+<p><b>News:</b> One paper got aceepted in <a href="https://arxiv.org/pdf/2110.05291.pdf" style="color:#5dbcd2;">ICLR 2022</a>.</p>
 
-<p><b>News:</b> One system paper got aceepted in  <a href="https://arxiv.org/pdf/2111.01777.pdf" style="color:#5dbcd2;">ICRA 2022</a>.</p>
+<p><b>News:</b> One system paper got aceepted in <a href="https://arxiv.org/pdf/2111.01777.pdf" style="color:#5dbcd2;">ICRA 2022</a>.</p>
 
-<p><b>News:</b> One blue-sky paper got aceepted in  <a href="https://arxiv.org/pdf/2107.12254.pdf" style="color:#5dbcd2;">AAMAS 2022</a>.</p>
+<p><b>News:</b> One blue-sky paper got aceepted in <a href="https://arxiv.org/pdf/2107.12254.pdf" style="color:#5dbcd2;">AAMAS 2022</a>.</p>
 
 
 <p><b>News:</b> From July 2021 to Oct 2021, I am working on <a href="https://www.microsoft.com/en-us/research/project/project-silica/" style="color:#5dbcd2;">Project Silica</a> during my internship at Microsoft Research Cambridge. I am exploring explainable RL-based approaches to scheduling in the Silica glass library, towards a scheduler for production deployment.</p>
