@@ -11,7 +11,7 @@ permalink: /skill/
 * Programming: 
   * Python, PyTorch, PyTorch Geometric, Deep Graph Library (DGI), Numpy, Jax, Jraph, MATLAB, C++ 
 * Robotics field: 
-  * ROS
+  * ROS2, ROS
 * CAD Software:
   * SolidWorks, Creo, SolidEdge, AutoCAD
 * FEA and CFD software:

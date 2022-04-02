@@ -86,6 +86,8 @@ redirect_from:
 
 Honors and Awards
 ======
+<h2> Travel award for CoRL 2021 </h2>
+
 
 <h2> <a href="https://www.cst.cam.ac.uk/wiseman-prize" style="color:#5dbcd2;"> Wiseman Prize </a></h2>
 * 2020, Department of Computer Science and Technology, University of Cambridge
