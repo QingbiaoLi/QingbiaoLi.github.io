@@ -119,7 +119,7 @@ News
 
 <p><b>2021 News:</b> Invited talk about 'Message-Aware Graph Attention Networks for Large-Scale Multi-Robot Path Planning' at University of Pennsylvania.</p>
 
-<p><b>News:</b> From July 2021 to Oct 2021, I am working on <a href="https://www.microsoft.com/en-us/research/project/project-silica/" style="color:#5dbcd2;">Project Silica</a> during my internship at Microsoft Research Cambridge. I am exploring explainable RL-based approaches to scheduling in the Silica glass library, towards a scheduler for production deployment.</p>
+<p><b>2021 News:</b> From July 2021 to Oct 2021, I am working on <a href="https://www.microsoft.com/en-us/research/project/project-silica/" style="color:#5dbcd2;">Project Silica</a> during my internship at Microsoft Research Cambridge. I am exploring explainable RL-based approaches to scheduling in the Silica glass library, towards a scheduler for production deployment.</p>
 
 <p><b>2021 News:</b> Invited talk about 'Message-Aware Graph Attention Networks for Large-Scale Multi-Robot Path Planning' at University of Pennsylvania.</p>
 
