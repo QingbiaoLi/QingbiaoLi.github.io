@@ -25,7 +25,7 @@ Vision
 
 <p> I believe that technology should contribute to humanity toward a healthier, safer, and higher quality of life.  </p> 
 
-<p> I am an enthusiast and believer in the new revolution for robotics (Artificial General Intelligence for Robotics). I believe that the 'real2sim (meta-verse) and sim2real' can bring the community (machine learning, computer vision and graphics, and robotics) towards the era of technology beyond first-principle-based methods and control theory. Yet, there is a huge research gap towards this revolution. I believe robotics can be one of the solutions for population aging via autonomous system and human-robot collaboration. </p> 
+<p> I am an enthusiast and believer in the new revolution for robotics (Artificial General Intelligence for Robotics). I believe that the 'real2sim (meta-verse) and sim2real' can bring the community (machine learning, computer vision and graphics, and robotics) towards the era of technology beyond first-principle-based methods and control theory. Yet, there is a huge research gap towards this revolution. I believe robotics can be one of the solutions for population aging via the autonomous system and human-robot collaboration. </p> 
 
 <p> I am a part-time researcher in AI for Health and Science (medical imaging and intro-operative imaging for surgical robotics).  </p> 
 
