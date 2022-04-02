@@ -46,7 +46,9 @@ Biography
 
 <p>I have published papers in the medical imaging area (IJCARS) and the robotics field (IEEE Humanoids, IEEE IROS, IEEE ICRA, IEEE RA-L and AAMAS). I have served as a reviewer for IEEE IROS, IEEE ICRA, IEEE RA-L, IEEE T-RO, Autonomous Robots (AURO) and AAMAS.</p> 
 
-<p><b>I am open to collaboration opportunities</b>. Feel free to contact by Email (ql295[AT]cam.ac.uk). Details of my CV can be found in <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
+
+
+<p><b>I am actively looking for Postdoctoral Researcher Positions and Research Scientist Positions in Industry. I am also open to collaboration opportunities. </b> Feel free to contact by Email (ql295[AT]cam.ac.uk). Details of my CV can be found in <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
 
 </div>
 
