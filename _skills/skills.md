@@ -9,7 +9,11 @@ permalink: /skill/
 <!-- Skills -->
 <!-- ====== -->
 * Programming: 
-  * Python, PyTorch, PyTorch Geometric, Deep Graph Library (DGI), Numpy, Jax, Jraph, MATLAB, C++ 
+  * Python, PyTorch, PyTorch Geometric, Deep Graph Library (DGI), Numpy, Pandas, Jax, Jraph, MATLAB, C++ 
+* Simulator:
+  * Unity ML-Agent, Pybullet, Mujoco, Gazebo and AWS Robomaker
+* Framework:
+  * RLlib
 * Robotics field: 
   * ROS2, ROS
 * CAD Software:
