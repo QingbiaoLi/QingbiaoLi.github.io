@@ -29,7 +29,7 @@ Vision
 
 <p> I am a part-time researcher in AI for Health and Science (medical imaging and intro-operative imaging for surgical robotics).  </p> 
 
-<!-- <p> Thoughout my research jounery towards this revolution so far, I have been inspired by my superivisor (<a href="https://www.proroklab.org/" style="color:#5dbcd2;">Prof Amanda Prorok</a>),  Prof Guang-zhong Yang -->
+<!-- <p> Thoughout my research jounery towards this revolution so far, I have been inspired by my superivisor (<a href="https://www.proroklab.org/" style="color:#5dbcd2;">Prof Amanda Prorok</a>),  (<a href="https://www.science.org/doi/10.1126/scirobotics.aam8638" style="color:#5dbcd2;"> Prof Guang-zhong Yang</a>-->
 
 <hr color="#FFFFFF" />
 </div>
@@ -97,7 +97,7 @@ News
 
 <p><b>2020 News:</b> One paper (Graph-MAPF) got aceepted in <a href="https://arxiv.org/pdf/1912.06095.pdf" style="color:#5dbcd2;">IROS 2020</a>.</p>
 
-<p><b>2021 News:</b> Invited talk about 'Graph Neural Networks for Decentralized Path Planning' </a> at Robotics X Tencent, Shenzhen, China.</p>
+<p><b>2021 News:</b> Invited talk about 'Graph Neural Networks for Decentralized Path Planning' at Robotics X Tencent, Shenzhen, China.</p>
 
 <p><b>2019 News:</b> One paper got aceepted in <a href="https://link.springer.com/article/10.1007/s11548-019-01940-2" style="color:#5dbcd2;">IPCAI-IPCAI Special Issue 2019.</a></p>
 
