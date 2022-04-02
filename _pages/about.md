@@ -117,16 +117,24 @@ News
 <p><b>2022 News:</b> One blue-sky paper got aceepted in <a href="https://arxiv.org/pdf/2107.12254.pdf" style="color:#5dbcd2;">AAMAS 2022</a>.</p>
 
 
+<p><b>2021 News:</b> Invited talk about 'Message-Aware Graph Attention Networks for Large-Scale Multi-Robot Path Planning' at University of Pennsylvania.</p>
+
 <p><b>News:</b> From July 2021 to Oct 2021, I am working on <a href="https://www.microsoft.com/en-us/research/project/project-silica/" style="color:#5dbcd2;">Project Silica</a> during my internship at Microsoft Research Cambridge. I am exploring explainable RL-based approaches to scheduling in the Silica glass library, towards a scheduler for production deployment.</p>
+
+<p><b>2021 News:</b> Invited talk about 'Message-Aware Graph Attention Networks for Large-Scale Multi-Robot Path Planning' at University of Pennsylvania.</p>
 
 <p><b>2021 News:</b> One paper got aceepted in <a href="https://arxiv.org/pdf/2007.15815.pdf" style="color:#5dbcd2;">TAC 2021</a>.</p>
 
 <p><b>2021 News:</b> One paper (MAGAT) got aceepted in <a href="https://arxiv.org/pdf/2011.13219.pdf" style="color:#5dbcd2;">RA-L 2021</a>.</p>
 
+<p><b>2020 News:</b> <a href="https://drive.google.com/file/d/1-3objk27WuodPRhT8_wtOQyjHynNUGsq/view" style="color:#5dbcd2;">Invited talk about 'From Graph Neural Networks to Decentralized Multi-Robot Path Planning' </a> at Zhejiang University.</p>
+
 <p><b>2020 News:</b> One paper (G2RL) got aceepted in <a href="https://arxiv.org/pdf/2005.05420.pdf" style="color:#5dbcd2;">RA-L 2020</a>.</p>
 
 <p><b>2020 News:</b> One paper (Graph-MAPF) got aceepted in <a href="https://arxiv.org/pdf/1912.06095.pdf" style="color:#5dbcd2;">IROS 2020</a>.</p>
- 
+
+<p><b>2021 News:</b> Invited talk about 'Graph Neural Networks for Decentralized Path Planning' </a> at Robotics X Tencent, Shenzhen, China.</p>
+
 <p><b>2019 News:</b> One paper got aceepted in <a href="https://link.springer.com/article/10.1007/s11548-019-01940-2" style="color:#5dbcd2;">IPCAI-IPCAI Special Issue 2019.</a></p>
 
 </div>
