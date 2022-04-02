@@ -114,7 +114,7 @@ News
 
 <p><b>2020 News:</b> One paper (Graph-MAPF) got aceepted in <a href="https://arxiv.org/pdf/1912.06095.pdf" style="color:#5dbcd2;">IROS 2020</a>.</p>
  
-<p><b>2019 News:</b> One paper got aceepted in <a href="https://link.springer.com/article/10.1007/s11548-019-01940-2" style="color:#5dbcd2;">IPCAI-IPCAI Special Issue 2019.</p>
+<p><b>2019 News:</b> One paper got aceepted in <a href="https://link.springer.com/article/10.1007/s11548-019-01940-2" style="color:#5dbcd2;">IPCAI-IPCAI Special Issue 2019.</a></p>
 
 </div>
 
