@@ -91,6 +91,19 @@ Biography
 
 </div>
 
+Research Interest
+======
+<ul>
+<li>Robot Learning</li>
+<li>Multi-robot Path Planning</li>
+<li>Graph Neural Networks (GNNs)</li>
+<li>Imitation Learning </li>
+<li>Reinforcement Learning</li>
+<li>Computer Vision (Medical Imaging) </li>
+</ul>
+
+<hr color="#FFFFFF" />
+
 News
 ======
 <div style="text-align: justify"> 
@@ -145,18 +158,6 @@ My research can be applied in mobility-on-demand, automated warehouse and smart 
 
 <hr color="#FFFFFF" />
 
-Research Interest
-======
-<ul>
-<li>Robot Learning</li>
-<li>Multi-robot Path Planning</li>
-<li>Graph Neural Networks (GNNs)</li>
-<li>Imitation Learning </li>
-<li>Reinforcement Learning</li>
-<li>Computer Vision (Medical Imaging) </li>
-</ul>
-
-<hr color="#FFFFFF" />
 
 Publications
 ======
