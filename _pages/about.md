@@ -71,7 +71,7 @@ News
 
 <p><b>2022 News:</b> Our (MPhil student co-supervised by me, Matthew Malencia, Prof Amanda Prorok) paper (GNN for TSP) got aceepted in <a href="https://arxiv.org/pdf/2110.05291.pdf" style="color:#5dbcd2;">ICLR 2022</a>.</p>
 
-<p><b>2022 News:</b> Our system paper (first truly decentralized robotics system based on GNNs) got aceepted in <a href="https://arxiv.org/pdf/2111.01777.pdf" style="color:#5dbcd2;">ICRA 2022</a>. Feel free to access our <a href="https://github.com/proroklab/rl_multi_agent_passage" style="color:#5dbcd2;"> public repo </a>. </p>
+<p><b>2022 News:</b> Our system paper (first truly decentralized robotics system based on GNNs) got aceepted in <a href="https://arxiv.org/pdf/2111.01777.pdf" style="color:#5dbcd2;">ICRA 2022</a>. Feel free to access our <a href="https://github.com/proroklab/rl_multi_agent_passage" style="color:#5dbcd2;"> public repo</a>. </p>
 
 <p><b>2022 News:</b> Our blue-sky paper got aceepted in <a href="https://arxiv.org/pdf/2107.12254.pdf" style="color:#5dbcd2;">AAMAS 2022</a>.</p>
 
