@@ -69,7 +69,7 @@ News
 
 <p><b>2022 News:</b> One paper got aceepted in <a href="https://arxiv.org/pdf/2012.14906.pdf" style="color:#5dbcd2;">TSP 2022</a>.</p>
 
-<p><b>2022 News:</b> One paper (GNN for TSP) got aceepted in <a href="https://arxiv.org/pdf/2110.05291.pdf" style="color:#5dbcd2;">ICLR 2022</a>.</p>
+<p><b>2022 News:</b> Our (MPhil student co-supervised by me, Matthew Malencia, Prof Amanda Prorok) paper (GNN for TSP) got aceepted in <a href="https://arxiv.org/pdf/2110.05291.pdf" style="color:#5dbcd2;">ICLR 2022</a>.</p>
 
 <p><b>2022 News:</b> One system paper (first truly decentralized robotics system based on GNNs) got aceepted in <a href="https://arxiv.org/pdf/2111.01777.pdf" style="color:#5dbcd2;">ICRA 2022</a>.</p>
 
