@@ -71,7 +71,7 @@ News
 
 <p><b>2022 News:</b> Our (MPhil student co-supervised by me, Matthew Malencia, Prof Amanda Prorok) paper (GNN for TSP) got aceepted in <a href="https://arxiv.org/pdf/2110.05291.pdf" style="color:#5dbcd2;">ICLR 2022</a>.</p>
 
-<p><b>2022 News:</b> Our system paper (first truly decentralized robotics system based on GNNs) got aceepted in <a href="https://arxiv.org/pdf/2111.01777.pdf" style="color:#5dbcd2;">ICRA 2022</a>.</p>
+<p><b>2022 News:</b> Our system paper (first truly decentralized robotics system based on GNNs) got aceepted in <a href="https://arxiv.org/pdf/2111.01777.pdf" style="color:#5dbcd2;">ICRA 2022</a>. Feel free to access our <a href="https://github.com/proroklab/rl_multi_agent_passage" style="color:#5dbcd2;"> public repo </a>. </p>
 
 <p><b>2022 News:</b> Our blue-sky paper got aceepted in <a href="https://arxiv.org/pdf/2107.12254.pdf" style="color:#5dbcd2;">AAMAS 2022</a>.</p>
 
@@ -79,6 +79,7 @@ News
 
 
 <!-- <p><b>2021 News:</b> Invited Job talk at Northwest University, University of Cambridge, MIT, UCL, HKUST (Guangzhou), SCUT,  Tencent AI Lab and Tencent Robotics X.</p> -->
+<p><b>2021 News:</b> My <a href="https://scholar.google.com/citations?user=63XXFoIAAAAJ&hl=en" style="color:#5dbcd2;">Google Scholar</a> reached 100 citations. My papaer (<a href="https://arxiv.org/pdf/1912.06095.pdf" style="color:#5dbcd2;"> Graph MAPF</a>) published at IROS 2020 get 51 cications, and our github repo <a href="https://github.com/proroklab/gnn_pathplanning" style="color:#5dbcd2;">[1]</a> got 82 stars and <a href="https://github.com/proroklab/magat_pathplanning" style="color:#5dbcd2;">[2]</a> got 37 stars so far. </p>
 
 <p><b>2021 News:</b> From July 2021 to Nov 2021, I am working on <a href="https://www.microsoft.com/en-us/research/project/project-silica/" style="color:#5dbcd2;">Project Silica</a> during my internship at Microsoft Research Cambridge. I am exploring explainable RL-based approaches to scheduling in the Silica glass library, towards a scheduler for production deployment.</p>
 
