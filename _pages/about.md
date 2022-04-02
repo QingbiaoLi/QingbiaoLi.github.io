@@ -93,7 +93,7 @@ Biography
 
 News
 ======
-<!-- <div style="text-align: justify">  -->
+<div style="text-align: justify"> 
 
 <p><b>2022 News:</b> One paper got aceepted in <a href="https://arxiv.org/pdf/2012.14906.pdf" style="color:#5dbcd2;">TSP 2022</a>.</p>
 
