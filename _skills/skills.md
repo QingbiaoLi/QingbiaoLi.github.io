@@ -9,7 +9,7 @@ permalink: /skill/
 <!-- Skills -->
 <!-- ====== -->
 * Programming: 
-  * Python, PyTorch, PyTorch Geometric, Deep Graph Library (DGI), Numpy, MATLAB, C++ 
+  * Python, PyTorch, PyTorch Geometric, Deep Graph Library (DGI), Numpy, Jax, Jraph, MATLAB, C++ 
 * Robotics field: 
   * ROS
 * CAD Software:
@@ -23,7 +23,7 @@ permalink: /skill/
 
 Language Proficiency
 ======
-* English:  Fluent 
+* English:  Proficient 
 * German:  Basic, Passed A2
 * Chinese: Mandarin (Native), Cantonese (Intermediate) and Hakka Dialect (Native)
 
