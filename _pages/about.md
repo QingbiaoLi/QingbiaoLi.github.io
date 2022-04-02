@@ -27,7 +27,7 @@ Vision
 
 <p> I am an enthusiast and believer in the new revolution for robotics (Artificial General Intelligence for Robotics). I believe that the 'real2sim (meta-verse) and sim2real' can bring the community (machine learning, computer vision and graphics, and robotics) towards the era of technology beyond first-principle-based methods and control theory. Yet, there is a huge research gap towards this revolution. I believe robotics can be one of the solutions for population aging via the autonomous system and human-robot collaboration. </p> 
 
-<p> I am a part-time researcher in AI for Health and Science (medical imaging and intro-operative imaging for surgical robotics).  </p> 
+<p> I am a part-time researcher in AI for Health and Science (medical imaging and intra-operative imaging for surgical robotics).  </p> 
 
 <!-- <p> Thoughout my research jounery towards this revolution so far, I have been inspired by my superivisor (<a href="https://www.proroklab.org/" style="color:#5dbcd2;">Prof Amanda Prorok</a>),  (<a href="https://www.science.org/doi/10.1126/scirobotics.aam8638" style="color:#5dbcd2;"> Prof Guang-zhong Yang</a>-->
 
