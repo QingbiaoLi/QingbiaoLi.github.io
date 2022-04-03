@@ -25,9 +25,9 @@ Vision
 
 <p> Inspired by Chinese philosopher 'Mozi'(墨子) and the ideas from Mohism about 'Universal Love, non-attack' (非攻 兼爱), I believe that technology should contribute to humanity toward a healthier, safer, and higher quality of life. </p> 
 
-<p> I am an enthusiast and believer in the new revolution for robotics (Artificial General Intelligence for Robotics). I believe that the 'real2sim (meta-verse) and sim2real' can bring the community (machine learning, computer vision and graphics, and robotics) towards the era of technology beyond first-principle-based methods and control theory. Yet, there is a huge research gap towards this revolution. I believe robotics can be one of the solutions for population aging via the autonomous system and human-robot collaboration. </p> 
+<p> I am an enthusiast and believer in the new revolution for robotics (Artificial General Intelligence for Robotics and Embedded Agent). I believe that the 'real2sim (meta-verse) and sim2real' can bring the community (machine learning, computer vision and graphics, and robotics) towards the era of technology beyond first-principle-based methods and control theory. Yet, there is a huge research gap towards this revolution. I believe robotics can be one of the solutions for population aging via the autonomous system and human-robot collaboration. </p> 
 
-<p> I am a part-time researcher in AI for Health and Science (medical imaging and intra-operative imaging for surgical robotics).  </p> 
+<p> I am a part-time researcher in AI for Health and Science (medical imaging, intra-operative imaging for surgical robotics and more to be explored).  </p> 
 
 <!-- <p> Thoughout my research jounery towards this revolution so far, I have been inspired by my superivisor (<a href="https://www.proroklab.org/" style="color:#5dbcd2;">Prof Amanda Prorok</a>),  (<a href="https://www.science.org/doi/10.1126/scirobotics.aam8638" style="color:#5dbcd2;"> Prof Guang-zhong Yang</a>-->
 
@@ -71,7 +71,7 @@ News
 
 <p><b>2022 News:</b> Our paper got aceepted in <a href="https://arxiv.org/pdf/2012.14906.pdf" style="color:#5dbcd2;">TSP 2022</a>.</p>
 
-<p><b>2022 News:</b> Our (MPhil student co-supervised by me, Matthew Malencia, Prof Amanda Prorok) paper (GNN for TSP) got aceepted in <a href="https://arxiv.org/pdf/2110.05291.pdf" style="color:#5dbcd2;">ICLR 2022</a>.</p>
+<p><b>2022 News:</b> Our (MPhil student co-supervised by me, Matthew Malencia, Prof Amanda Prorok) paper (GNNs for TSP) got aceepted in <a href="https://arxiv.org/pdf/2110.05291.pdf" style="color:#5dbcd2;">ICLR 2022</a>.</p>
 
 <p><b>2022 News:</b> Our system paper (first truly decentralized robotics system based on GNNs) got aceepted in <a href="https://arxiv.org/pdf/2111.01777.pdf" style="color:#5dbcd2;">ICRA 2022</a>. Feel free to access our <a href="https://github.com/proroklab/rl_multi_agent_passage" style="color:#5dbcd2;"> public repo</a>. </p>
 
