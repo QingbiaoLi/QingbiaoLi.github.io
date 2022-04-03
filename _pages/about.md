@@ -23,7 +23,7 @@ Vision
 ======
 <div style="text-align: justify"> 
 
-<p> I believe that technology should contribute to humanity toward a healthier, safer, and higher quality of life.  </p> 
+<p> Inspired by Chinese philosopher 'Mozi'(墨子) and the ideas from Mohism about 'Universal Love, non-attack' (非攻 兼爱), I believe that technology should contribute to humanity toward a healthier, safer, and higher quality of life. </p> 
 
 <p> I am an enthusiast and believer in the new revolution for robotics (Artificial General Intelligence for Robotics). I believe that the 'real2sim (meta-verse) and sim2real' can bring the community (machine learning, computer vision and graphics, and robotics) towards the era of technology beyond first-principle-based methods and control theory. Yet, there is a huge research gap towards this revolution. I believe robotics can be one of the solutions for population aging via the autonomous system and human-robot collaboration. </p> 
 
@@ -103,9 +103,9 @@ News
 
 <p><b>2019 News:</b> Our paper got aceepted in <a href="https://link.springer.com/article/10.1007/s11548-019-01940-2" style="color:#5dbcd2;">IPCAI-IPCAI Special Issue 2019.</a></p>
 
-<p><b>2019 News:</b> Our papers (<a href="https://arxiv.org/pdf/1804.07116.pdf" style="color:#5dbcd2;"> [1] </a> <a href="https://arxiv.org/pdf/1804.02943.pdf" style="color:#5dbcd2;"> [2] </a>) got aceepted in  Hamlyn Symposium</a></p>
+<p><b>2018 News:</b> Our papers (<a href="https://arxiv.org/pdf/1804.07116.pdf" style="color:#5dbcd2;"> [1] </a> <a href="https://arxiv.org/pdf/1804.02943.pdf" style="color:#5dbcd2;"> [2] </a>) got aceepted in  Hamlyn Symposium</a></p>
 
-<p><b>2019 News:</b> Our paper got aceepted in <a href="https://qingbiaoli.github.io/files/humanoid2017.pdf" style="color:#5dbcd2;">IEEE Humanoid 2017.</a></p>
+<p><b>2017 News:</b> Our paper got aceepted in <a href="https://qingbiaoli.github.io/files/humanoid2017.pdf" style="color:#5dbcd2;">IEEE Humanoid 2017.</a></p>
 
 </div>
 
