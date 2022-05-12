@@ -140,7 +140,7 @@ collection: portfolio
     </li>
     <li><b>Duties included</b>: 
       <ul>
-        <li>CAD modeeling of the impactor. </li>
+        <li>CAD modelling of the impactor. </li>
         <li>Signal processing of data from accelerometer, and analysed on the results.   </li>
       </ul>
     </li>
