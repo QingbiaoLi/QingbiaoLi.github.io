@@ -69,6 +69,10 @@ News
 ======
 <div style="text-align: justify"> 
 
+
+<p><b>2022 News:</b> Our paper got accepted in <a href="https://arxiv.org/pdf/2105.08601.pdf" style="color:#5dbcd2;">SSIR 2022</a>.</p>
+
+
 <p><b>2022 News:</b> Our paper was awarded <a href="https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards" style="color:#5dbcd2;">Publication of the Year</a> by the Department of Computer Science and Technology at the University of Cambridge.</p>
 
 
