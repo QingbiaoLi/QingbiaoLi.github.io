@@ -75,8 +75,6 @@ News
 
 <p><b>2022 News:</b> I am deeply appreciated to receive <a href="https://www.hughes.cam.ac.uk/student-centre/welfare/financial-hardship/" style="color:#5dbcd2;">Chui Wen Mei Memorial Bursary</a> to support my final period of my PhD.</p>
 
-<p><b>2022 News:</b> I am deeply appreciated to receive <a href="https://www.hughes.cam.ac.uk/student-centre/welfare/financial-hardship/" style="color:#5dbcd2;">Chui Wen Mei Memorial Bursary</a> to support my final period of my PhD.</p>
-
 
 <p><b>2022 News:</b> Our paper got accepted in <a href="https://arxiv.org/pdf/2105.08601.pdf" style="color:#5dbcd2;">SSRR 2022</a>.</p>
 
