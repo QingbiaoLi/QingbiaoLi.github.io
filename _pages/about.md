@@ -69,6 +69,14 @@ News
 ======
 <div style="text-align: justify"> 
 
+<p><b>2022 News:</b> As there is way more noise that interrupts our daily study and work, let us come here to study and work with quiet music and a nice view of Cambridge on my personal YouTube called 'Study Room of Qingbiao Li' and Douyu Channel called <a href="https://www.douyu.com/room/share/11301854" style="color:#5dbcd2;">'格拉夫暖男的自习室'</a> daily. Welcome to join our 
+<a href="https://join.slack.com/t/slack-nzm3127/shared_invite/zt-1lk7aiuts-XRTeyQBdrr~AQgh1MMypmg" style="color:#5dbcd2;"> 'Study_Room_Graphnuannan'</a> and <a href="https://space.bilibili.com/3493077882767724" style="color:#5dbcd2;">Bilibili</a>. 
+
+
+<p><b>2022 News:</b> I am deeply appreciated to receive <a href="https://www.hughes.cam.ac.uk/student-centre/welfare/financial-hardship/" style="color:#5dbcd2;">Chui Wen Mei Memorial Bursary</a> to support my final period of my PhD.</p>
+
+<p><b>2022 News:</b> I am deeply appreciated to receive <a href="https://www.hughes.cam.ac.uk/student-centre/welfare/financial-hardship/" style="color:#5dbcd2;">Chui Wen Mei Memorial Bursary</a> to support my final period of my PhD.</p>
+
 
 <p><b>2022 News:</b> Our paper got accepted in <a href="https://arxiv.org/pdf/2105.08601.pdf" style="color:#5dbcd2;">SSRR 2022</a>.</p>
 
@@ -80,19 +88,19 @@ News
 
 <p><b>2022 News:</b> Our (MPhil student co-supervised by me, Matthew Malencia, Prof Amanda Prorok) paper (GNNs for TSP) got accepted in <a href="https://arxiv.org/pdf/2110.05291.pdf" style="color:#5dbcd2;">ICLR 2022</a>.</p>
 
-<p><b>2022 News:</b> Our system paper (first truly decentralized robotics system based on GNNs) got accepted in <a href="https://arxiv.org/pdf/2111.01777.pdf" style="color:#5dbcd2;">ICRA 2022</a>. Feel free to access our <a href="https://github.com/proroklab/rl_multi_agent_passage" style="color:#5dbcd2;"> public repo</a>. </p>
+<p><b>2022 News:</b> Our system paper (the first truly decentralized robotics system based on GNNs) got accepted in <a href="https://arxiv.org/pdf/2111.01777.pdf" style="color:#5dbcd2;">ICRA 2022</a>. Feel free to access our <a href="https://github.com/proroklab/rl_multi_agent_passage" style="color:#5dbcd2;"> public repo</a>. </p>
 
 <p><b>2022 News:</b> Our blue-sky paper got accepted in <a href="https://arxiv.org/pdf/2107.12254.pdf" style="color:#5dbcd2;">AAMAS 2022</a>.</p>
 
-<p><b>2022 News:</b> Invited talk about 'Graph Neural Networks from Robot Learning and Beyond' at ShenlanXueyuan as part of online course related to Graph Neural Networks developed by <a href="https://www.cse.msu.edu/~tangjili/" style="color:#5dbcd2;">Prof Jiliang Tang</a>. Obtain over 1k view till now.</p>
+<p><b>2022 News:</b> Invited talk about 'Graph Neural Networks from Robot Learning and Beyond' at ShenlanXueyuan as part of an online course related to Graph Neural Networks developed by <a href="https://www.cse.msu.edu/~tangjili/" style="color:#5dbcd2;">Prof Jiliang Tang</a>. Obtain over 1k view till now.</p>
 
 
 <!-- <p><b>2021 News:</b> Invited Job talk at Northwest University, University of Cambridge, MIT, UCL, HKUST (Guangzhou), SCUT,  Tencent AI Lab and Tencent Robotics X.</p> -->
-<p><b>2021 News:</b> My <a href="https://scholar.google.com/citations?user=63XXFoIAAAAJ&hl=en" style="color:#5dbcd2;">Google Scholar</a> reached 100 citations. My papaer (<a href="https://arxiv.org/pdf/1912.06095.pdf" style="color:#5dbcd2;"> Graph MAPF</a>) published at IROS 2020 get 51 cications, and our github repo <a href="https://github.com/proroklab/gnn_pathplanning" style="color:#5dbcd2;">[1]</a> got 82 stars and <a href="https://github.com/proroklab/magat_pathplanning" style="color:#5dbcd2;">[2]</a> got 37 stars so far. </p>
+<p><b>2021 News:</b> My <a href="https://scholar.google.com/citations?user=63XXFoIAAAAJ&hl=en" style="color:#5dbcd2;">Google Scholar</a> reached 100 citations. My paper (<a href="https://arxiv.org/pdf/1912.06095.pdf" style="color:#5dbcd2;"> Graph MAPF</a>) published at IROS 2020 got 90 citations, and our GitHub repo <a href="https://github.com/proroklab/gnn_pathplanning" style="color:#5dbcd2;">[1]</a> got 115 stars and <a href="https://github.com/proroklab/magat_pathplanning" style="color:#5dbcd2;">[2]</a> got 22 stars so far. </p>
 
 <p><b>2021 News:</b> From July 2021 to Nov 2021, I am working on <a href="https://www.microsoft.com/en-us/research/project/project-silica/" style="color:#5dbcd2;">Project Silica</a> during my internship at Microsoft Research Cambridge. I am exploring explainable RL-based approaches to scheduling in the Silica glass library, towards a scheduler for production deployment.</p>
 
-<p><b>2021 News:</b> Invited talk about 'Message-Aware Graph Attention Networks for Large-Scale Multi-Robot Path Planning' at University of Pennsylvania.</p>
+<p><b>2021 News:</b> Invited talk about 'Message-Aware Graph Attention Networks for Large-Scale Multi-Robot Path Planning' at the University of Pennsylvania.</p>
 
 <p><b>2021 News:</b> Our paper got accepted in <a href="https://arxiv.org/pdf/2007.15815.pdf" style="color:#5dbcd2;">TAC 2021</a>.</p>
 
