@@ -67,10 +67,12 @@ Research Interest
 
 News
 ======
+
 <div style="text-align: justify"> 
 
 <p><b>2022 News:</b> As there is way more noise that interrupts our daily study and work, let us come here to study and work with quiet music and a nice view of Cambridge on my personal YouTube called 'Study Room of Qingbiao Li' and Douyu Channel called <a href="https://www.douyu.com/room/share/11301854" style="color:#5dbcd2;">'格拉夫暖男的自习室'</a> daily. Welcome to join our 
-<a href="https://join.slack.com/t/studyroomgraphnuannan/shared_invite/zt-1lk7aiuts-XRTeyQBdrr~AQgh1MMypmg" style="color:#5dbcd2;"> 'Study_Room_Graphnuannan'</a> and <a href="https://space.bilibili.com/3493077882767724" style="color:#5dbcd2;">Bilibili</a>. 
+<a href="https://join.slack.com/t/studyroomgraphnuannan/shared_invite/zt-1lk7aiuts-XRTeyQBdrr~AQgh1MMypmg" style="color:#5dbcd2;"> 'Study_Room_Graphnuannan'</a> and <a href="https://space.bilibili.com/3493077882767724" style="color:#5dbcd2;">Bilibili</a>. </p>
+
 
 
 <p><b>2022 News:</b> I am deeply appreciated to receive <a href="https://www.hughes.cam.ac.uk/student-centre/welfare/financial-hardship/" style="color:#5dbcd2;">Chui Wen Mei Memorial Bursary</a> to support my final period of my PhD.</p>
