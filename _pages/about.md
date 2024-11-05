@@ -36,13 +36,13 @@ Vision
 
 Research Interest
 ======
-<div class="dspcont" style='display:none;'>
+<div class="dspcont">
   <fieldset>
-  <a href="https://youtu.be/AGDk2RozpMQ
-  " target="_blank"><img src="/images/customized/Research_Direction_2024
-  .png" 
-  alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
-    </fieldset>
+    <a href="https://youtu.be/AGDk2RozpMQ" target="_blank">
+      <img src="/images/customized/Research_Direction_2024.png" 
+      alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" />
+    </a>
+  </fieldset>
 </div>
 <ul>
 <li>Robot Learning</li>
@@ -79,6 +79,10 @@ News
 ======
 
 <div style="text-align: justify"> 
+
+<p><b>2024 News:</b> I started to work as <a href="https://www.fst.um.edu.mo/people/qingbiaoli/" style="color:#5dbcd2;">Assistant Professor</a> at Faculty of Science and Technology at University of Macau since Aug 2024.</p>
+
+<p><b>2023 News:</b> I started to conduct Postdoc Research at CRG at Oxford Robotics Instistue at University of Oxford since Feb 2023.</p>
 
 <p><b>2023 News:</b> I submitted my <a href="https://www.repository.cam.ac.uk/items/d13c6d2e-aadc-4335-aff2-df30a6044991" style="color:#5dbcd2;">PhD thesis</a> at University of Cambridge.</p>
 
