@@ -40,7 +40,7 @@ Research Interest
   <fieldset>
     <a href="https://youtu.be/AGDk2RozpMQ" target="_blank">
       <img src="/images/customized/Research_Direction_2024.png" 
-      alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" />
+      alt="IMAGE ALT TEXT HERE" width="560" height="315"/>
     </a>
   </fieldset>
 </div>
