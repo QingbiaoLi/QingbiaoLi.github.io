@@ -37,12 +37,10 @@ Vision
 Research Interest
 ======
 <div class="dspcont">
-  <fieldset>
-    <a href="https://youtu.be/AGDk2RozpMQ" target="_blank">
-      <img src="/images/customized/Research_Direction_2024.png" 
-      alt="IMAGE ALT TEXT HERE" width="560" height="315"/>
-    </a>
-  </fieldset>
+  <a href="https://youtu.be/AGDk2RozpMQ" target="_blank">
+    <img src="/images/customized/Research_Direction_2024.png" 
+    alt="IMAGE ALT TEXT HERE" style="width: 100%; max-width: 560px; height: auto;" />
+  </a>
 </div>
 <ul>
 <li>Robot Learning</li>
