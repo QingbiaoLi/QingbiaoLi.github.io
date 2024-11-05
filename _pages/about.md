@@ -34,26 +34,16 @@ Vision
 <hr color="#FFFFFF" />
 </div>
 
-Biography
-======
-
-<p>I am currently a PhD student at ProrokLab in the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/" style="color:#5dbcd2;">Prof Amanda Prorok</a>. During my PhD, I focus on <b>communication-aware motion planning</b> for multi-robot coordination. I am investigating <b>Graph Neural Networks (GNN)</b> to build communication channels for multi-agent and multi-robot systems so that they can learn how to communicate between each other explicitly. 
- My research can be applied to mobility-on-demand systems, automated warehouses, and smart cities.</p> 
-
-<div style="text-align: justify"> 
-
-<p>Prior to joining Cambridge, I was working in <a href="https://www.imperial.ac.uk/hamlyn-centre/" style="color:#5dbcd2;">the Hamlyn Centre</a> at Imperial College London, founded by <a href="https://ieeexplore.ieee.org/author/37276270800" style="color:#5dbcd2;">Prof Guang-Zhong Yang</a> and <a href="https://www.imperial.ac.uk/people/a.darzi" style="color:#5dbcd2;">the Lord Ara Darzi</a>,  in the field of medical robotics and healthcare to earn my MRes in Medical Robotics and Image-Guided Intervention. I was supervised by <a href="https://www.imperial.ac.uk/people/daniel.elson" style="color:#5dbcd2;">Prof Daniel Elson</a> for an eight-month research project about oxygen saturation (StO2) estimation, and graduated with a distinction. I also hold an MEng degree in Mechanical Engineering from the University of Edinburgh.</p> 
-
-<p>I have published papers in the medical imaging area (IJCARS) and the robotics field (IEEE Humanoids, IEEE IROS, IEEE ICRA, IEEE RA-L and AAMAS). I have served as a reviewer for IEEE IROS, IEEE ICRA, IEEE RA-L, IEEE T-RO, Autonomous Robots (AURO) and AAMAS.</p> 
-
-
-
-<p><b>I am actively looking for Postdoctoral Researcher Positions and Research Scientist Positions in Industry. I am also open to collaboration opportunities. </b> Feel free to contact by Email (ql295[AT]cam.ac.uk). Details of my CV can be found in <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
-
-</div>
-
 Research Interest
 ======
+<div class="dspcont" style='display:none;'>
+  <fieldset>
+  <a href="https://youtu.be/AGDk2RozpMQ
+  " target="_blank"><img src="/images/customized/Research_Direction_2024
+  .png" 
+  alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
+    </fieldset>
+</div>
 <ul>
 <li>Robot Learning</li>
 <li>Multi-robot Path Planning</li>
@@ -65,10 +55,41 @@ Research Interest
 
 <hr color="#FFFFFF" />
 
+Openning 
+======
+<p><b>I am actively looking for self-motivated students to apply 2025 Fall PhD (Fully Fund Position) to work with me at University of Macau. I am also open to collaboration opportunities. </b> Feel free to contact by Email (qingbiaoli[AT]um.edu.mo). Details of my CV can be found in <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
+
+Biography
+======
+
+<p>I am working as an assistant professor at Faculty of Science and Technology at University of Macau from Aug 2024.  Piror that, qingbiao Li was postdoc researcher at Oxford Robotics Institue at University of Oxford.  I obtained a PhD student at ProrokLab in the Digital Technology Group (DTG) at the University of Cambridge under the supervision of <a href="https://www.proroklab.org/" style="color:#5dbcd2;">Prof Amanda Prorok</a>. During my PhD, I focus on <b>communication-aware motion planning</b> for multi-robot coordination. I am investigating <b>Graph Neural Networks (GNN)</b> to build communication channels for multi-agent and multi-robot systems so that they can learn how to communicate between each other explicitly. My research can be applied to mobility-on-demand systems, automated warehouses, and smart cities.</p> 
+
+<div style="text-align: justify"> 
+
+<p>Prior to joining Cambridge, I was working in <a href="https://www.imperial.ac.uk/hamlyn-centre/" style="color:#5dbcd2;">the Hamlyn Centre</a> at Imperial College London, founded by <a href="https://ieeexplore.ieee.org/author/37276270800" style="color:#5dbcd2;">Prof Guang-Zhong Yang</a> and <a href="https://www.imperial.ac.uk/people/a.darzi" style="color:#5dbcd2;">the Lord Ara Darzi</a>,  in the field of medical robotics and healthcare to earn my MRes in Medical Robotics and Image-Guided Intervention. I was supervised by <a href="https://www.imperial.ac.uk/people/daniel.elson" style="color:#5dbcd2;">Prof Daniel Elson</a> for an eight-month research project about oxygen saturation (StO2) estimation, and graduated with a distinction. I also hold an MEng degree in Mechanical Engineering from the University of Edinburgh.</p> 
+
+<p>I have published papers in the medical imaging area (IJCARS) and the robotics field (IEEE Humanoids, IEEE IROS, IEEE ICRA, IEEE RA-L and AAMAS). I have served as a reviewer for IEEE IROS, IEEE ICRA, IEEE RA-L, IEEE T-RO, Autonomous Robots (AURO) and AAMAS.</p> 
+
+
+
+</div>
+
+
 News
 ======
 
 <div style="text-align: justify"> 
+
+<p><b>2023 News:</b> I submitted my <a href="https://www.repository.cam.ac.uk/items/d13c6d2e-aadc-4335-aff2-df30a6044991" style="color:#5dbcd2;">PhD thesis</a> at University of Cambridge.</p>
+
+
+<p><b>2023 News:</b> Our paper got accepted in <a href="https://www.nature.com/articles/s42256-023-00736-z" style="color:#5dbcd2;">Nature Machine Intelligence 2023</a>.</p>
+
+<p><b>2023 News:</b> Our paper was awarded Best Paper at CoPerception Workshop at ICRA 2023 and accepted at <a href="https://arxiv.org/pdf/2208.00759.pdf" style="color:#5dbcd2;">IROS 2023</a>.</p>
+
+<p><b>2023 News:</b> Our paper got accepted in <a href="https://arxiv.org/pdf/2301.08451.pdf" style="color:#5dbcd2;">ICRA 2023</a>.</p>
+
+<p><b>2023 News:</b> Our paper got accepted in <a href="https://bionicdl.ancorasir.com/wp-content/uploads/2023/11/2023-J-RAL-TacGNN.pdf" style="color:#5dbcd2;">RAL 2023</a>.</p>
 
 <p><b>2022 News:</b> As there is way more noise that interrupts our daily study and work, let us come here to study and work with quiet music and a nice view of Cambridge on my personal YouTube called 'Study Room of Qingbiao Li' and Douyu Channel called <a href="https://www.douyu.com/room/share/11301854" style="color:#5dbcd2;">'格拉夫暖男的自习室'</a> daily. Welcome to join our 
 <a href="https://join.slack.com/t/studyroomgraphnuannan/shared_invite/zt-1lk7aiuts-XRTeyQBdrr~AQgh1MMypmg" style="color:#5dbcd2;"> 'Study_Room_Graphnuannan'</a> and <a href="https://space.bilibili.com/3493077882767724" style="color:#5dbcd2;">Bilibili</a>. </p>
