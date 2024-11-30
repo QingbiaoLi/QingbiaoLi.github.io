@@ -82,11 +82,12 @@ author:
   name             : "Qingbiao Li <br />李庆标"
   avatar           : "photo_li.JPG"
   # bio              : "Roboticist"
-  bio              : "PhD student at University of Cambridge"
-  location         : "Cambridge, UK"
+  bio              : "Assistant Professor at University of Macau"
+  location         : "Macau SAR, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=63XXFoIAAAAJ&hl=en"
-  email            : "ql295@cam.ac.uk"
+  # email            : "ql295@cam.ac.uk"
+  email            : "qingbiaoli@um.edu.mo"
   uri              :
   bitbucket        :
   codepen          :
