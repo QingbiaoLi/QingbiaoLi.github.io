@@ -15,7 +15,7 @@ redirect_from:
 <!-- ====== -->
 <!-- ## <i>University of Cambridge</i>, 2018-Present ## -->
 <h2>University of Cambridge</h2> 
-* 2018-Present, Prorok Lab, Digital Technology Group (DTG)
+* 2018-2023, Prorok Lab, Digital Technology Group (DTG)
 * <b>PhD in Computer Science</b>
 <!--   * Research Interest: Develop optimal multi-agent path planning framework with trainable communication policy of heterogeneous agents/robots in cooperative tasks, including mobility-on-demand, automated warehouse and smart cities.  -->
 

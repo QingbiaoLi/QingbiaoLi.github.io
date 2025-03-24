@@ -14,6 +14,44 @@ collection: portfolio
 
 # <i>Work Experience</i>
 
+## <b>Assistant Professor</b>
+* 2024,_Faculty of Science and Technology, University of Macau, Macau SAR_
+<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
+<div class="dspcont" style='display:none;'>
+  <fieldset>
+  <ul>
+    <li><b>Research Direction</b>: 
+      <ul>
+        <li>1.Robot Learning for multi‑robot and multi agent coordination, LLMs‑based autonomous agent;</li>
+        <li>2.Machine Learning for intra‑operative imaging for surgical robotics, medical imaging and diagnosis.;</li>
+      </ul>
+    </li>
+  </ul>
+  <br/>
+  </fieldset>
+</div>
+<hr color="#FFFFFF" />
+
+
+## <b>Postdoctoral Researcher for RAILS</b>
+* 2023,_Oxford Robotics Institute, Oxford, UK_
+<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
+<div class="dspcont" style='display:none;'>
+  <fieldset>
+  <ul>
+    <li><b>Supervisor</b>: Dr Lars Kunze </li>
+    <li><b>Duties included</b>: 
+      <ul>
+        <li>Focus on investigating causal inference for corner case generation for autonomous driving. </li>
+      </ul>
+    </li>
+  </ul>
+  <br/>
+  </fieldset>
+</div>
+<hr color="#FFFFFF" />
+
+
 ## <b>Research Intern in Project Silica</b>
 * 2021,_Microsoft Research Cambridge, Cambridge, UK_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
