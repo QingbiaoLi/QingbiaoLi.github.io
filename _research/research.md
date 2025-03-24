@@ -15,15 +15,15 @@ collection: portfolio
 # <i>Work Experience</i>
 
 ## <b>Assistant Professor</b>
-* 2024,_Faculty of Science and Technology, University of Macau, Macau SAR_
+* 2024, _Faculty of Science and Technology, University of Macau, Macau SAR_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
   <fieldset>
   <ul>
     <li><b>Research Direction</b>: 
       <ul>
-        <li>1.Robot Learning for multi‑robot and multi agent coordination, LLMs‑based autonomous agent;</li>
-        <li>2.Machine Learning for intra‑operative imaging for surgical robotics, medical imaging and diagnosis.;</li>
+        <li>Robot Learning for multi‑robot and multi agent coordination, LLMs‑based autonomous agent;</li>
+        <li>Machine Learning for intra‑operative imaging for surgical robotics, medical imaging and diagnosis.;</li>
       </ul>
     </li>
   </ul>
