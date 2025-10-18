@@ -29,8 +29,6 @@ Vision
 
 <p> I am a part-time researcher in AI for Health and Science (medical imaging, intra-operative imaging for surgical robotics, ML for accelerating CFD optimization and more to be explored).  </p> 
 
-<p> Our Lab, <a href="https://www.mohismlab.com/" style="color:#5dbcd2;">Mohismlab</a>, are looking for motivated applicants for Postdocs, 26 Fall PhDs, RAs, Visitors and master students, feel free to fill the <a href="https://forms.gle/ety6izFKpdyRZCcH6" style="color:#5dbcd2;">form</a>, and reach out to me. </p> 
-
 <!-- <p> Thoughout my research jounery towards this revolution so far, I have been inspired by my superivisor (<a href="https://www.proroklab.org/" style="color:#5dbcd2;">Prof Amanda Prorok</a>),  (<a href="https://www.science.org/doi/10.1126/scirobotics.aam8638" style="color:#5dbcd2;"> Prof Guang-zhong Yang</a>-->
 
 <hr color="#FFFFFF" />
@@ -57,7 +55,9 @@ Research Interest
 
 Openning 
 ======
-<p><b>I am actively looking for self-motivated students to apply 2025 Fall PhD (Fully Fund Position) to work with me at University of Macau. I am also open to collaboration opportunities. </b> Feel free to contact by Email (qingbiaoli[AT]um.edu.mo). Details of my CV can be found in <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
+<p> Our Lab, <a href="https://www.mohismlab.com/" style="color:#5dbcd2;">Mohismlab</a>, are looking for motivated applicants for Postdocs, 1 to 2 PhDs to join us at 26 Fall, RAs, Visitors and master students, feel free to fill the <a href="https://forms.gle/ety6izFKpdyRZCcH6" style="color:#5dbcd2;">form</a>, and reach out to me. </p> 
+
+<p><b>I am also open to collaboration opportunities. </b> Feel free to contact by Email (qingbiaoli[AT]um.edu.mo). Details of my CV can be found in <a href="../files/CV_QingbiaoLi.pdf" style="color:#5dbcd2;">PDF</a>.</p>
 
 Biography
 ======
